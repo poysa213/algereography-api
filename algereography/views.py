@@ -7,7 +7,7 @@ from .serializers import WilayaSerializer, DairaSerializer
 
 
 class WilayaViewSet(ListAPIView , RetrieveAPIView):
-    queryset = Wilaya.objects.all()
+    queryset = Wilaya.objects.prefetch_related('dairas').all()
     serializer_class = WilayaSerializer
     lookup_field = 'id'
 
