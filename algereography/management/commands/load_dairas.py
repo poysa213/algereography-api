@@ -11,8 +11,8 @@ class Command(BaseCommand):
             
 
         for item in data:
-            wilaya = Wilaya.objects.get(pk=item['fields']['wilaya'])
-            daira = Daira(ar_name=item['fields']['ar_name'], name=item['fields']['name'],wilaya=wilaya)
+            wilaya = Wilaya.objects.get(pk=item['wilaya'])
+            daira = Daira(ar_name=item['ar_name'], name=item['name'],wilaya=wilaya)
             daira.save()
             
         self.stdout.write(self.style.SUCCESS(('All Dairas successfully loaded')))

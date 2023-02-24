@@ -1,4934 +1,2742 @@
 [
     {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "أدرار",
-            "name": "Adrar",
-            "wilaya": 1
-        },
-        "pk": 0
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "أولف",
-            "name": "Aoulef",
-            "wilaya": 1
-        },
-        "pk": 1
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "أوقروت",
-            "name": "Aougrout",
-            "wilaya": 49
-        },
-        "pk": 2
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "برج باجي مختار",
-            "name": "Bordj Badji Mokhtar",
-            "wilaya": 50
-        },
-        "pk": 3
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "شروين",
-            "name": "Charouine",
-            "wilaya": 49
-        },
-        "pk": 4
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "فنوغيل",
-            "name": "Fenoughil",
-            "wilaya": 1
-        },
-        "pk": 5
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "زاوية كنتة",
-            "name": "Zaouiat Kounta",
-            "wilaya": 1
-        },
-        "pk": 6
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "تنركوك",
-            "name": "Tinerkouk",
-            "wilaya": 49
-        },
-        "pk": 7
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "تيميمون",
-            "name": "Timimoun",
-            "wilaya": 49
-        },
-        "pk": 8
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "رقان",
-            "name": "Reggane",
-            "wilaya": 1
-        },
-        "pk": 9
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "تسابيت",
-            "name": "Tsabit",
-            "wilaya": 1
-        },
-        "pk": 10
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "أبو الحسن",
-            "name": "Abou El Hassane",
-            "wilaya": 2
-        },
-        "pk": 11
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "عين مران",
-            "name": "Ain Merane",
-            "wilaya": 2
-        },
-        "pk": 12
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "الزبوجة",
-            "name": "Zeboudja",
-            "wilaya": 2
-        },
-        "pk": 13
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "الكريمية",
-            "name": "El Karimia",
-            "wilaya": 2
-        },
-        "pk": 14
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "بني حواء",
-            "name": "Beni Haoua",
-            "wilaya": 2
-        },
-        "pk": 15
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "وادي الفضة",
-            "name": "Oued Fodda",
-            "wilaya": 2
-        },
-        "pk": 16
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "بوقادير",
-            "name": "Boukadir",
-            "wilaya": 2
-        },
-        "pk": 17
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "أولاد فارس",
-            "name": "Ouled Fares",
-            "wilaya": 2
-        },
-        "pk": 18
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "الشلف",
-            "name": "Chlef",
-            "wilaya": 2
-        },
-        "pk": 19
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "تاوقريت",
-            "name": "Taougrit",
-            "wilaya": 2
-        },
-        "pk": 20
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "أولاد بن عبد القادر",
-            "name": "Ouled Ben Abdelkader",
-            "wilaya": 2
-        },
-        "pk": 21
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "المرسى",
-            "name": "El Marsa",
-            "wilaya": 2
-        },
-        "pk": 22
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "تنس",
-            "name": "Tenes",
-            "wilaya": 2
-        },
-        "pk": 23
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "أفلو",
-            "name": "Aflou",
-            "wilaya": 3
-        },
-        "pk": 24
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "عين ماضي",
-            "name": "Ain Madhi",
-            "wilaya": 3
-        },
-        "pk": 25
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "قتلة سيدي سعيد",
-            "name": "Gueltat Sidi Saad",
-            "wilaya": 3
-        },
-        "pk": 26
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "قصر الحيران",
-            "name": "Ksar El Hirane",
-            "wilaya": 3
-        },
-        "pk": 27
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "بريدة",
-            "name": "Brida",
-            "wilaya": 3
-        },
-        "pk": 28
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "سيدي مخلوف",
-            "name": "Sidi Makhlouf",
-            "wilaya": 3
-        },
-        "pk": 29
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "الغيشة",
-            "name": "El Ghicha",
-            "wilaya": 3
-        },
-        "pk": 30
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "حاسي الرمل",
-            "name": "Hassi R'mel",
-            "wilaya": 3
-        },
-        "pk": 31
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "الأغواط",
-            "name": "Laghouat",
-            "wilaya": 3
-        },
-        "pk": 32
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "وادي مرة",
-            "name": "Oued Morra",
-            "wilaya": 3
-        },
-        "pk": 33
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "عين ببوش",
-            "name": "Ain Babouche",
-            "wilaya": 4
-        },
-        "pk": 34
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "عين البيضاء",
-            "name": "Ain Beida",
-            "wilaya": 4
-        },
-        "pk": 35
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "عين فكرون",
-            "name": "Ain Fekroun",
-            "wilaya": 4
-        },
-        "pk": 36
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "عين كرشة",
-            "name": "Ain Kercha",
-            "wilaya": 4
-        },
-        "pk": 37
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "عين مليلة",
-            "name": "Ain M'lila",
-            "wilaya": 4
-        },
-        "pk": 38
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "أم البواقي",
-            "name": "Oum El Bouaghi",
-            "wilaya": 4
-        },
-        "pk": 39
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "مسكيانة",
-            "name": "Meskiana",
-            "wilaya": 4
-        },
-        "pk": 40
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "سوق نعمان",
-            "name": "Souk Naamane",
-            "wilaya": 4
-        },
-        "pk": 41
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "الضلعة",
-            "name": "Dhalaa",
-            "wilaya": 4
-        },
-        "pk": 42
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "سيقوس",
-            "name": "Sigus",
-            "wilaya": 4
-        },
-        "pk": 43
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "فكيرينة",
-            "name": "F'kirina",
-            "wilaya": 4
-        },
-        "pk": 44
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "قصر الصباحي",
-            "name": "Ksar Sbahi",
-            "wilaya": 4
-        },
-        "pk": 45
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "عين جاسر",
-            "name": "Ain Djasser",
-            "wilaya": 5
-        },
-        "pk": 46
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "عين التوتة",
-            "name": "Ain Touta",
-            "wilaya": 5
-        },
-        "pk": 47
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "المعذر",
-            "name": "El Madher",
-            "wilaya": 5
-        },
-        "pk": 48
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "أريس",
-            "name": "Arris",
-            "wilaya": 5
-        },
-        "pk": 49
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "الجزار",
-            "name": "Djezzar",
-            "wilaya": 5
-        },
-        "pk": 50
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "بريكة",
-            "name": "Barika",
-            "wilaya": 5
-        },
-        "pk": 51
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "باتنة",
-            "name": "Batna",
-            "wilaya": 5
-        },
-        "pk": 52
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "الشمرة",
-            "name": "Chemora",
-            "wilaya": 5
-        },
-        "pk": 53
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "نقاوس",
-            "name": "N'gaous",
-            "wilaya": 5
-        },
-        "pk": 54
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "بوزينة",
-            "name": "Bouzina",
-            "wilaya": 5
-        },
-        "pk": 55
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "ثنية العابد",
-            "name": "Theniet El Abed",
-            "wilaya": 5
-        },
-        "pk": 56
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "إشمول",
-            "name": "Ichemoul",
-            "wilaya": 5
-        },
-        "pk": 57
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "تكوت",
-            "name": "Tkout",
-            "wilaya": 5
-        },
-        "pk": 58
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "رأس العيون",
-            "name": "Ras El Aioun",
-            "wilaya": 5
-        },
-        "pk": 59
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "مروانة",
-            "name": "Merouana",
-            "wilaya": 5
-        },
-        "pk": 60
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "سريانة",
-            "name": "Seriana",
-            "wilaya": 5
-        },
-        "pk": 61
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "أولاد سي سليمان",
-            "name": "Ouled Si Slimane",
-            "wilaya": 5
-        },
-        "pk": 62
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "منعة",
-            "name": "Menaa",
-            "wilaya": 5
-        },
-        "pk": 63
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "تيمقاد",
-            "name": "Timgad",
-            "wilaya": 5
-        },
-        "pk": 64
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "تازولت",
-            "name": "Tazoult",
-            "wilaya": 5
-        },
-        "pk": 65
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "سقانة",
-            "name": "Seggana",
-            "wilaya": 5
-        },
-        "pk": 66
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "أدكار",
-            "name": "Adekar",
-            "wilaya": 6
-        },
-        "pk": 67
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "إغيل علي",
-            "name": "Ighil Ali",
-            "wilaya": 6
-        },
-        "pk": 68
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "درقينة",
-            "name": "Darguina",
-            "wilaya": 6
-        },
-        "pk": 69
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "أقبو",
-            "name": "Akbou",
-            "wilaya": 6
-        },
-        "pk": 70
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "شميني",
-            "name": "Chemini",
-            "wilaya": 6
-        },
-        "pk": 71
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "صدوق",
-            "name": "Seddouk",
-            "wilaya": 6
-        },
-        "pk": 72
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "أميزور",
-            "name": "Amizour",
-            "wilaya": 6
-        },
-        "pk": 73
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "أوقاس",
-            "name": "Aokas",
-            "wilaya": 6
-        },
-        "pk": 74
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "برباشة",
-            "name": "Barbacha",
-            "wilaya": 6
-        },
-        "pk": 75
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "بجاية",
-            "name": "Bejaia",
-            "wilaya": 6
-        },
-        "pk": 76
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "تازملت",
-            "name": "Tazmalt",
-            "wilaya": 6
-        },
-        "pk": 77
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "بني معوش",
-            "name": "Beni Maouche",
-            "wilaya": 6
-        },
-        "pk": 78
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "تيشي",
-            "name": "Tichy",
-            "wilaya": 6
-        },
-        "pk": 79
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "خراطة",
-            "name": "Kherrata",
-            "wilaya": 6
-        },
-        "pk": 80
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "سيدي عيش",
-            "name": "Sidi Aich",
-            "wilaya": 6
-        },
-        "pk": 81
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "القصر",
-            "name": "El Kseur",
-            "wilaya": 6
-        },
-        "pk": 82
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "إفري أوزلاقن",
-            "name": "Ifri Ouzellaguene",
-            "wilaya": 6
-        },
-        "pk": 83
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "سوق الإثنين",
-            "name": "Souk El Tenine",
-            "wilaya": 6
-        },
-        "pk": 84
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "تيمزريت",
-            "name": "Timezrit",
-            "wilaya": 6
-        },
-        "pk": 85
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "سيدي عقبة",
-            "name": "Sidi Okba",
-            "wilaya": 7
-        },
-        "pk": 86
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "القنطرة",
-            "name": "El Kantara",
-            "wilaya": 7
-        },
-        "pk": 87
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "سيدي خالد",
-            "name": "Sidi Khaled",
-            "wilaya": 51
-        },
-        "pk": 88
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "بسكرة",
-            "name": "Biskra",
-            "wilaya": 7
-        },
-        "pk": 89
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "طولقة",
-            "name": "Tolga",
-            "wilaya": 7
-        },
-        "pk": 90
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "جمورة",
-            "name": "Djemorah",
-            "wilaya": 7
-        },
-        "pk": 91
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "أولاد جلال",
-            "name": "Ouled Djellal",
-            "wilaya": 51
-        },
-        "pk": 92
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "زريبة الوادي",
-            "name": "Zeribet El Oued",
-            "wilaya": 7
-        },
-        "pk": 93
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "فوغالة",
-            "name": "Foughala",
-            "wilaya": 7
-        },
-        "pk": 94
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "الوطاية",
-            "name": "El Outaya",
-            "wilaya": 7
-        },
-        "pk": 95
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "أورلال",
-            "name": "Ourlal",
-            "wilaya": 7
-        },
-        "pk": 96
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "مشونش",
-            "name": "Mechouneche",
-            "wilaya": 7
-        },
-        "pk": 97
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "العبادلة",
-            "name": "Abadla",
-            "wilaya": 8
-        },
-        "pk": 98
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "بشار",
-            "name": "Bechar",
-            "wilaya": 8
-        },
-        "pk": 99
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "بني عباس",
-            "name": "Beni Abbes",
-            "wilaya": 52
-        },
-        "pk": 100
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "كرزاز",
-            "name": "Kerzaz",
-            "wilaya": 52
-        },
-        "pk": 101
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "بني ونيف",
-            "name": "Beni Ounif",
-            "wilaya": 8
-        },
-        "pk": 102
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "لحمر",
-            "name": "Lahmar",
-            "wilaya": 8
-        },
-        "pk": 103
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "الواتة",
-            "name": "El Ouata",
-            "wilaya": 52
-        },
-        "pk": 104
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "إقلي",
-            "name": "Igli",
-            "wilaya": 52
-        },
-        "pk": 105
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "القنادسة",
-            "name": "Kenadsa",
-            "wilaya": 8
-        },
-        "pk": 106
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "أولاد خضير",
-            "name": "Ouled Khodeir",
-            "wilaya": 52
-        },
-        "pk": 107
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "تبلبالة",
-            "name": "Tabelbala",
-            "wilaya": 8
-        },
-        "pk": 108
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "تاغيت",
-            "name": "Taghit",
-            "wilaya": 8
-        },
-        "pk": 109
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "موزاية",
-            "name": "Mouzaia",
-            "wilaya": 9
-        },
-        "pk": 110
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "أولاد يعيش",
-            "name": "Ouled Yaich",
-            "wilaya": 9
-        },
-        "pk": 111
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "وادي العلايق",
-            "name": "Oued El Alleug",
-            "wilaya": 9
-        },
-        "pk": 112
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "البليدة",
-            "name": "Blida",
-            "wilaya": 9
-        },
-        "pk": 113
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "بوفاريك",
-            "name": "Boufarik",
-            "wilaya": 9
-        },
-        "pk": 114
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "بوقرة",
-            "name": "Bougara",
-            "wilaya": 9
-        },
-        "pk": 115
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "بوعينان",
-            "name": "Bouinan",
-            "wilaya": 9
-        },
-        "pk": 116
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "مفتاح",
-            "name": "Meftah",
-            "wilaya": 9
-        },
-        "pk": 117
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "العفرون",
-            "name": "El Affroun",
-            "wilaya": 9
-        },
-        "pk": 118
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "الأربعاء",
-            "name": "Larbaa",
-            "wilaya": 9
-        },
-        "pk": 119
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "مشد الله",
-            "name": "M'chedallah",
-            "wilaya": 10
-        },
-        "pk": 120
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "بشلول",
-            "name": "Bechloul",
-            "wilaya": 10
-        },
-        "pk": 121
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "عين بسام",
-            "name": "Ain Bessem",
-            "wilaya": 10
-        },
-        "pk": 122
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "البويرة",
-            "name": "Bouira",
-            "wilaya": 10
-        },
-        "pk": 123
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "القادرية",
-            "name": "Kadiria",
-            "wilaya": 10
-        },
-        "pk": 124
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "بئر غبالو",
-            "name": "Bir Ghbalou",
-            "wilaya": 10
-        },
-        "pk": 125
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "برج أوخريص",
-            "name": "Bordj Okhriss",
-            "wilaya": 10
-        },
-        "pk": 126
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "الأخضرية",
-            "name": "Lakhdaria",
-            "wilaya": 10
-        },
-        "pk": 127
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "سور الغزلان",
-            "name": "Sour El Ghozlane",
-            "wilaya": 10
-        },
-        "pk": 128
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "الهاشمية",
-            "name": "El Hachimia",
-            "wilaya": 10
-        },
-        "pk": 129
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "سوق الخميس",
-            "name": "Souk El Khemis",
-            "wilaya": 10
-        },
-        "pk": 130
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "الحيزر",
-            "name": "Haizer",
-            "wilaya": 10
-        },
-        "pk": 131
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "سيلت",
-            "name": "Silet",
-            "wilaya": 11
-        },
-        "pk": 132
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "تمنراست",
-            "name": "Tamanrasset",
-            "wilaya": 11
-        },
-        "pk": 133
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "عين قزام",
-            "name": "In Guezzam",
-            "wilaya": 54
-        },
-        "pk": 134
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "عين صالح",
-            "name": "In Salah",
-            "wilaya": 53
-        },
-        "pk": 135
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "تاظروك",
-            "name": "Tazrouk",
-            "wilaya": 11
-        },
-        "pk": 136
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "إينغر",
-            "name": "In Ghar",
-            "wilaya": 53
-        },
-        "pk": 137
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "تين زواتين",
-            "name": "Tin Zouatine",
-            "wilaya": 54
-        },
-        "pk": 138
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "الونزة",
-            "name": "Ouenza",
-            "wilaya": 12
-        },
-        "pk": 139
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "العقلة",
-            "name": "El Ogla",
-            "wilaya": 12
-        },
-        "pk": 140
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "الكويف",
-            "name": "El Kouif",
-            "wilaya": 12
-        },
-        "pk": 141
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "مرسط",
-            "name": "Morsott",
-            "wilaya": 12
-        },
-        "pk": 142
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "بئر مقدم",
-            "name": "Bir Mokadem",
-            "wilaya": 12
-        },
-        "pk": 143
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "بئر العاتر",
-            "name": "Bir El Ater",
-            "wilaya": 12
-        },
-        "pk": 144
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "العوينات",
-            "name": "El Aouinet",
-            "wilaya": 12
-        },
-        "pk": 145
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "الشريعة",
-            "name": "Cheria",
-            "wilaya": 12
-        },
-        "pk": 146
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "الماء الابيض",
-            "name": "El Malabiod",
-            "wilaya": 12
-        },
-        "pk": 147
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "نقرين",
-            "name": "Negrine",
-            "wilaya": 12
-        },
-        "pk": 148
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "أم علي",
-            "name": "Oum Ali",
-            "wilaya": 12
-        },
-        "pk": 149
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "تبسة",
-            "name": "Tebessa",
-            "wilaya": 12
-        },
-        "pk": 150
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "فلاوسن",
-            "name": "Fellaoucene",
-            "wilaya": 13
-        },
-        "pk": 151
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "شتوان",
-            "name": "Chetouane",
-            "wilaya": 13
-        },
-        "pk": 152
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "منصورة",
-            "name": "Mansourah",
-            "wilaya": 13
-        },
-        "pk": 153
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "عين تالوت",
-            "name": "Ain Tellout",
-            "wilaya": 13
-        },
-        "pk": 154
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "الرمشي",
-            "name": "Remchi",
-            "wilaya": 13
-        },
-        "pk": 155
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "باب العسة",
-            "name": "Bab El Assa",
-            "wilaya": 13
-        },
-        "pk": 156
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "بني سنوس",
-            "name": "Beni Snous",
-            "wilaya": 13
-        },
-        "pk": 157
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "بني بوسعيد",
-            "name": "Beni Boussaid",
-            "wilaya": 13
-        },
-        "pk": 158
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "هنين",
-            "name": "Honnaine",
-            "wilaya": 13
-        },
-        "pk": 159
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "أولاد ميمون",
-            "name": "Ouled Mimoun",
-            "wilaya": 13
-        },
-        "pk": 160
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "بن سكران",
-            "name": "Bensekrane",
-            "wilaya": 13
-        },
-        "pk": 161
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "صبرة",
-            "name": "Sabra",
-            "wilaya": 13
-        },
-        "pk": 162
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "سيدي الجيلالي",
-            "name": "Sidi Djillali",
-            "wilaya": 13
-        },
-        "pk": 163
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "الغزوات",
-            "name": "Ghazaouet",
-            "wilaya": 13
-        },
-        "pk": 164
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "ندرومة",
-            "name": "Nedroma",
-            "wilaya": 13
-        },
-        "pk": 165
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "سبدو",
-            "name": "Sebdou",
-            "wilaya": 13
-        },
-        "pk": 166
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "مغنية",
-            "name": "Maghnia",
-            "wilaya": 13
-        },
-        "pk": 167
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "الحناية",
-            "name": "Hennaya",
-            "wilaya": 13
-        },
-        "pk": 168
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "مرسى بن مهيدي",
-            "name": "Marsa Ben Mehdi",
-            "wilaya": 13
-        },
-        "pk": 169
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "تلمسان",
-            "name": "Tlemcen",
-            "wilaya": 13
-        },
-        "pk": 170
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "دحموني",
-            "name": "Dahmouni",
-            "wilaya": 14
-        },
-        "pk": 171
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "عين الذهب",
-            "name": "Ain Deheb",
-            "wilaya": 14
-        },
-        "pk": 172
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "مهدية",
-            "name": "Mahdia",
-            "wilaya": 14
-        },
-        "pk": 173
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "فرندة",
-            "name": "Frenda",
-            "wilaya": 14
-        },
-        "pk": 174
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "عين كرمس",
-            "name": "Ain Kermes",
-            "wilaya": 14
-        },
-        "pk": 175
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "حمادية",
-            "name": "Hamadia",
-            "wilaya": 14
-        },
-        "pk": 176
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "مشرع الصفا",
-            "name": "Mechraa Sfa",
-            "wilaya": 14
-        },
-        "pk": 177
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "السوقر",
-            "name": "Sougueur",
-            "wilaya": 14
-        },
-        "pk": 178
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "رحوية",
-            "name": "Rahouia",
-            "wilaya": 14
-        },
-        "pk": 179
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "قصر الشلالة",
-            "name": "Ksar Chellala",
-            "wilaya": 14
-        },
-        "pk": 180
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "مدروسة",
-            "name": "Medroussa",
-            "wilaya": 14
-        },
-        "pk": 181
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "مغيلة",
-            "name": "Meghila",
-            "wilaya": 14
-        },
-        "pk": 182
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "وادي ليلي",
-            "name": "Oued Lili",
-            "wilaya": 14
-        },
-        "pk": 183
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "تيارت",
-            "name": "Tiaret",
-            "wilaya": 14
-        },
-        "pk": 184
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "عين الحمام",
-            "name": "Ain El Hammam",
-            "wilaya": 15
-        },
-        "pk": 185
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "أزفون",
-            "name": "Azeffoun",
-            "wilaya": 15
-        },
-        "pk": 186
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "واضية",
-            "name": "Ouadhias",
-            "wilaya": 15
-        },
-        "pk": 187
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "ذراع الميزان",
-            "name": "Draa El Mizan",
-            "wilaya": 15
-        },
-        "pk": 188
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "الأربعاء ناث إيراثن",
-            "name": "Larbaa Nath Iraten",
-            "wilaya": 15
-        },
-        "pk": 189
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "واسيف",
-            "name": "Ouacif",
-            "wilaya": 15
-        },
-        "pk": 190
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "مقلع",
-            "name": "Mekla",
-            "wilaya": 15
-        },
-        "pk": 191
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "واقنون",
-            "name": "Ouaguenoun",
-            "wilaya": 15
-        },
-        "pk": 192
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "بني دوالة",
-            "name": "Beni Douala",
-            "wilaya": 15
-        },
-        "pk": 193
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "تيزي راشد",
-            "name": "Tizi Rached",
-            "wilaya": 15
-        },
-        "pk": 194
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "بوغني",
-            "name": "Boghni",
-            "wilaya": 15
-        },
-        "pk": 195
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "عزازقة",
-            "name": "Azazga",
-            "wilaya": 15
-        },
-        "pk": 196
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "بني يني",
-            "name": "Benni Yenni",
-            "wilaya": 15
-        },
-        "pk": 197
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "بوزقن",
-            "name": "Bouzeguene",
-            "wilaya": 15
-        },
-        "pk": 198
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "ماكودة",
-            "name": "Makouda",
-            "wilaya": 15
-        },
-        "pk": 199
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "ذراع بن خدة",
-            "name": "Draa Ben Khedda",
-            "wilaya": 15
-        },
-        "pk": 200
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "إفرحونان",
-            "name": "Iferhounene",
-            "wilaya": 15
-        },
-        "pk": 201
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "تيقزيرت",
-            "name": "Tigzirt",
-            "wilaya": 15
-        },
-        "pk": 202
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "معاتقة",
-            "name": "Maatkas",
-            "wilaya": 15
-        },
-        "pk": 203
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "تيزي غنيف",
-            "name": "Tizi-Ghenif",
-            "wilaya": 15
-        },
-        "pk": 204
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "تيزي وزو",
-            "name": "Tizi Ouzou",
-            "wilaya": 15
-        },
-        "pk": 205
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "الشراقة",
-            "name": "Cheraga",
-            "wilaya": 16
-        },
-        "pk": 206
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "الدار البيضاء",
-            "name": "Dar El Beida",
-            "wilaya": 16
-        },
-        "pk": 207
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "سيدي امحمد",
-            "name": "Sidi M'hamed",
-            "wilaya": 16
-        },
-        "pk": 208
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "باب الوادي",
-            "name": "Bab El Oued",
-            "wilaya": 16
-        },
-        "pk": 209
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "الدرارية",
-            "name": "Draria",
-            "wilaya": 16
-        },
-        "pk": 210
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "الحراش",
-            "name": "El Harrach",
-            "wilaya": 16
-        },
-        "pk": 211
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "براقي",
-            "name": "Baraki",
-            "wilaya": 16
-        },
-        "pk": 212
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "بوزريعة",
-            "name": "Bouzareah",
-            "wilaya": 16
-        },
-        "pk": 213
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "بئر مراد رايس",
-            "name": "Bir Mourad Rais",
-            "wilaya": 16
-        },
-        "pk": 214
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "بئر توتة",
-            "name": "Birtouta",
-            "wilaya": 16
-        },
-        "pk": 215
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "حسين داي",
-            "name": "Hussein Dey",
-            "wilaya": 16
-        },
-        "pk": 216
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "الرويبة",
-            "name": "Rouiba",
-            "wilaya": 16
-        },
-        "pk": 217
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "زرالدة",
-            "name": "Zeralda",
-            "wilaya": 16
-        },
-        "pk": 218
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "الادريسية",
-            "name": "El Idrissia",
-            "wilaya": 17
-        },
-        "pk": 219
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "عين الإبل",
-            "name": "Ain El Ibel",
-            "wilaya": 17
-        },
-        "pk": 220
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "حد الصحاري",
-            "name": "Had Sahary",
-            "wilaya": 17
-        },
-        "pk": 221
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "حاسي بحبح",
-            "name": "Hassi Bahbah",
-            "wilaya": 17
-        },
-        "pk": 222
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "عين وسارة",
-            "name": "Ain Oussera",
-            "wilaya": 17
-        },
-        "pk": 223
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "فيض البطمة",
-            "name": "Faidh El Botma",
-            "wilaya": 17
-        },
-        "pk": 224
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "بيرين",
-            "name": "Birine",
-            "wilaya": 17
-        },
-        "pk": 225
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "الشارف",
-            "name": "Charef",
-            "wilaya": 17
-        },
-        "pk": 226
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "دار الشيوخ",
-            "name": "Dar Chioukh",
-            "wilaya": 17
-        },
-        "pk": 227
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "مسعد",
-            "name": "Messaad",
-            "wilaya": 17
-        },
-        "pk": 228
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "الجلفة",
-            "name": "Djelfa",
-            "wilaya": 17
-        },
-        "pk": 229
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "سيدي لعجال",
-            "name": "Sidi Laadjel",
-            "wilaya": 17
-        },
-        "pk": 230
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "الشقفة",
-            "name": "Chekfa",
-            "wilaya": 18
-        },
-        "pk": 231
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "جيملة",
-            "name": "Djimla",
-            "wilaya": 18
-        },
-        "pk": 232
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "العنصر",
-            "name": "El Ancer",
-            "wilaya": 18
-        },
-        "pk": 233
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "الطاهير",
-            "name": "Taher",
-            "wilaya": 18
-        },
-        "pk": 234
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "العوانة",
-            "name": "El Aouana",
-            "wilaya": 18
-        },
-        "pk": 235
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "الميلية",
-            "name": "El Milia",
-            "wilaya": 18
-        },
-        "pk": 236
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "زيامة منصورية",
-            "name": "Ziamah Mansouriah",
-            "wilaya": 18
-        },
-        "pk": 237
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "السطارة",
-            "name": "Settara",
-            "wilaya": 18
-        },
-        "pk": 238
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "جيجل",
-            "name": "Jijel",
-            "wilaya": 18
-        },
-        "pk": 239
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "تاكسنة",
-            "name": "Texenna",
-            "wilaya": 18
-        },
-        "pk": 240
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "سيدي معروف",
-            "name": "Sidi Marouf",
-            "wilaya": 18
-        },
-        "pk": 241
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "عين أرنات",
-            "name": "Ain Arnat",
-            "wilaya": 19
-        },
-        "pk": 242
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "عين أزال",
-            "name": "Ain Azel",
-            "wilaya": 19
-        },
-        "pk": 243
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "عين الكبيرة",
-            "name": "Ain El Kebira",
-            "wilaya": 19
-        },
-        "pk": 244
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "عين ولمان",
-            "name": "Ain Oulmene",
-            "wilaya": 19
-        },
-        "pk": 245
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "بني ورتيلان",
-            "name": "Beni Ourtilane",
-            "wilaya": 19
-        },
-        "pk": 246
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "بوقاعة",
-            "name": "Bougaa",
-            "wilaya": 19
-        },
-        "pk": 247
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "بني عزيز",
-            "name": "Beni Aziz",
-            "wilaya": 19
-        },
-        "pk": 248
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "بوعنداس",
-            "name": "Bouandas",
-            "wilaya": 19
-        },
-        "pk": 249
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "عموشة",
-            "name": "Amoucha",
-            "wilaya": 19
-        },
-        "pk": 250
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "بابور",
-            "name": "Babor",
-            "wilaya": 19
-        },
-        "pk": 251
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "العلمة",
-            "name": "El Eulma",
-            "wilaya": 19
-        },
-        "pk": 252
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "بئر العرش",
-            "name": "Bir El Arch",
-            "wilaya": 19
-        },
-        "pk": 253
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "جميلة",
-            "name": "Djemila",
-            "wilaya": 19
-        },
-        "pk": 254
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "صالح باي",
-            "name": "Salah Bey",
-            "wilaya": 19
-        },
-        "pk": 255
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "حمام قرقور",
-            "name": "Hammam Guergour",
-            "wilaya": 19
-        },
-        "pk": 256
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "قنزات",
-            "name": "Guenzet",
-            "wilaya": 19
-        },
-        "pk": 257
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "قجال",
-            "name": "Guidjel",
-            "wilaya": 19
-        },
-        "pk": 258
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "حمام السخنة",
-            "name": "Hammam Sokhna",
-            "wilaya": 19
-        },
-        "pk": 259
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "ماوكلان",
-            "name": "Maoklane",
-            "wilaya": 19
-        },
-        "pk": 260
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "سطيف",
-            "name": "Setif",
-            "wilaya": 19
-        },
-        "pk": 261
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "عين الحجر",
-            "name": "Ain El Hadjar",
-            "wilaya": 20
-        },
-        "pk": 262
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "الحساسنة",
-            "name": "El Hassasna",
-            "wilaya": 20
-        },
-        "pk": 263
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "أولاد ابراهيم",
-            "name": "Ouled Brahim",
-            "wilaya": 20
-        },
-        "pk": 264
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "يوب",
-            "name": "Youb",
-            "wilaya": 20
-        },
-        "pk": 265
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "سيدي بوبكر",
-            "name": "Sidi Boubekeur",
-            "wilaya": 20
-        },
-        "pk": 266
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "سعيدة",
-            "name": "Saida",
-            "wilaya": 20
-        },
-        "pk": 267
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "سيدي مزغيش",
-            "name": "Sidi Mezghiche",
-            "wilaya": 21
-        },
-        "pk": 268
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "عزابة",
-            "name": "Azzaba",
-            "wilaya": 21
-        },
-        "pk": 269
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "عين قشرة",
-            "name": "Ain Kechra",
-            "wilaya": 21
-        },
-        "pk": 270
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "الحدائق",
-            "name": "El Hadaiek",
-            "wilaya": 21
-        },
-        "pk": 271
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "بن عزوز",
-            "name": "Ben Azzouz",
-            "wilaya": 21
-        },
-        "pk": 272
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "رمضان جمال",
-            "name": "Ramdane Djamel",
-            "wilaya": 21
-        },
-        "pk": 273
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "القل",
-            "name": "Collo",
-            "wilaya": 21
-        },
-        "pk": 274
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "تمالوس",
-            "name": "Tamalous",
-            "wilaya": 21
-        },
-        "pk": 275
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "الحروش",
-            "name": "El Harrouch",
-            "wilaya": 21
-        },
-        "pk": 276
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "سكيكدة",
-            "name": "Skikda",
-            "wilaya": 21
-        },
-        "pk": 277
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "الزيتونة",
-            "name": "Zitouna",
-            "wilaya": 21
-        },
-        "pk": 278
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "أولاد عطية",
-            "name": "Ouled Attia",
-            "wilaya": 21
-        },
-        "pk": 279
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "أم الطوب",
-            "name": "Oum Toub",
-            "wilaya": 21
-        },
-        "pk": 280
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "عين البرد",
-            "name": "Ain El Berd",
-            "wilaya": 22
-        },
-        "pk": 281
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "سيدي علي بوسيدي",
-            "name": "Sidi Ali Boussidi",
-            "wilaya": 22
-        },
-        "pk": 282
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "تسالة",
-            "name": "Tessala",
-            "wilaya": 22
-        },
-        "pk": 283
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "مولاي سليسن",
-            "name": "Moulay Slissen",
-            "wilaya": 22
-        },
-        "pk": 284
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "سفيزف",
-            "name": "Sfisef",
-            "wilaya": 22
-        },
-        "pk": 285
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "سيدي لحسن",
-            "name": "Sidi Lahcene",
-            "wilaya": 22
-        },
-        "pk": 286
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "بن باديس",
-            "name": "Ben Badis",
-            "wilaya": 22
-        },
-        "pk": 287
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "مصطفى بن ابراهيم",
-            "name": "Mostefa Ben Brahim",
-            "wilaya": 22
-        },
-        "pk": 288
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "تنيرة",
-            "name": "Tenira",
-            "wilaya": 22
-        },
-        "pk": 289
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "مرحوم",
-            "name": "Marhoum",
-            "wilaya": 22
-        },
-        "pk": 290
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "سيدي علي بن يوب",
-            "name": "Sidi Ali Ben Youb",
-            "wilaya": 22
-        },
-        "pk": 291
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "تلاغ",
-            "name": "Telagh",
-            "wilaya": 22
-        },
-        "pk": 292
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "مرين",
-            "name": "Merine",
-            "wilaya": 22
-        },
-        "pk": 293
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "راس الماء",
-            "name": "Ras El Ma",
-            "wilaya": 22
-        },
-        "pk": 294
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "سيدي بلعباس",
-            "name": "Sidi Bel Abbes",
-            "wilaya": 22
-        },
-        "pk": 295
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "عين الباردة",
-            "name": "Ain El Berda",
-            "wilaya": 23
-        },
-        "pk": 296
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "عنابة",
-            "name": "Annaba",
-            "wilaya": 23
-        },
-        "pk": 297
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "برحال",
-            "name": "Berrahal",
-            "wilaya": 23
-        },
-        "pk": 298
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "شطايبي",
-            "name": "Chetaibi",
-            "wilaya": 23
-        },
-        "pk": 299
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "البوني",
-            "name": "El Bouni",
-            "wilaya": 23
-        },
-        "pk": 300
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "الحجار",
-            "name": "El Hadjar",
-            "wilaya": 23
-        },
-        "pk": 301
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "بوشقوف",
-            "name": "Bouchegouf",
-            "wilaya": 24
-        },
-        "pk": 302
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "عين مخلوف",
-            "name": "Ain Makhlouf",
-            "wilaya": 24
-        },
-        "pk": 303
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "وادي الزناتي",
-            "name": "Oued Zenati",
-            "wilaya": 24
-        },
-        "pk": 304
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "خزارة",
-            "name": "Khezaras",
-            "wilaya": 24
-        },
-        "pk": 305
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "قلعة بوصبع",
-            "name": "Guelaat Bousbaa",
-            "wilaya": 24
-        },
-        "pk": 306
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "قالمة",
-            "name": "Guelma",
-            "wilaya": 24
-        },
-        "pk": 307
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "حمام دباغ",
-            "name": "Hammam Debagh",
-            "wilaya": 24
-        },
-        "pk": 308
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "هيليوبوليس",
-            "name": "Heliopolis",
-            "wilaya": 24
-        },
-        "pk": 309
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "حمام النبايل",
-            "name": "Hammam N'bails",
-            "wilaya": 24
-        },
-        "pk": 310
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "عين حساينية",
-            "name": "Ain Hessainia",
-            "wilaya": 24
-        },
-        "pk": 311
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "عين عبيد",
-            "name": "Ain Abid",
-            "wilaya": 25
-        },
-        "pk": 312
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "الخروب",
-            "name": "El Khroub",
-            "wilaya": 25
-        },
-        "pk": 313
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "زيغود يوسف",
-            "name": "Zighoud Youcef",
-            "wilaya": 25
-        },
-        "pk": 314
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "قسنطينة",
-            "name": "Constantine",
-            "wilaya": 25
-        },
-        "pk": 315
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "حامة بوزيان",
-            "name": "Hamma Bouziane",
-            "wilaya": 25
-        },
-        "pk": 316
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "ابن زياد",
-            "name": "Ibn Ziad",
-            "wilaya": 25
-        },
-        "pk": 317
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "عين بوسيف",
-            "name": "Ain Boucif",
-            "wilaya": 26
-        },
-        "pk": 318
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "شلالة العذاورة",
-            "name": "Chellalat El Adhaoura",
-            "wilaya": 26
-        },
-        "pk": 319
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "تابلاط",
-            "name": "Tablat",
-            "wilaya": 26
-        },
-        "pk": 320
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "عزيز",
-            "name": "Aziz",
-            "wilaya": 26
-        },
-        "pk": 321
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "العمارية",
-            "name": "El Omaria",
-            "wilaya": 26
-        },
-        "pk": 322
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "وزرة",
-            "name": "Ouzera",
-            "wilaya": 26
-        },
-        "pk": 323
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "بني سليمان",
-            "name": "Beni Slimane",
-            "wilaya": 26
-        },
-        "pk": 324
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "البرواقية",
-            "name": "Berrouaghia",
-            "wilaya": 26
-        },
-        "pk": 325
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "القلب الكبير",
-            "name": "Guelb El Kebir",
-            "wilaya": 26
-        },
-        "pk": 326
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "أولاد عنتر",
-            "name": "Ouled Antar",
-            "wilaya": 26
-        },
-        "pk": 327
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "الشهبونية",
-            "name": "Chahbounia",
-            "wilaya": 26
-        },
-        "pk": 328
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "سي المحجوب",
-            "name": "Si Mahdjoub",
-            "wilaya": 26
-        },
-        "pk": 329
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "سيدي نعمان",
-            "name": "Sidi Naamane",
-            "wilaya": 26
-        },
-        "pk": 330
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "السواقي",
-            "name": "Souaghi",
-            "wilaya": 26
-        },
-        "pk": 331
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "المدية",
-            "name": "Medea",
-            "wilaya": 26
-        },
-        "pk": 332
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "العزيزية",
-            "name": "El Azizia",
-            "wilaya": 26
-        },
-        "pk": 333
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "عوامري",
-            "name": "Ouamri",
-            "wilaya": 26
-        },
-        "pk": 334
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "قصر البخاري",
-            "name": "Ksar El Boukhari",
-            "wilaya": 26
-        },
-        "pk": 335
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "سغوان",
-            "name": "Seghouane",
-            "wilaya": 26
-        },
-        "pk": 336
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "عشعاشة",
-            "name": "Achaacha",
-            "wilaya": 27
-        },
-        "pk": 337
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "خير الدين",
-            "name": "Kheir Eddine",
-            "wilaya": 27
-        },
-        "pk": 338
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "عين نويسي",
-            "name": "Ain Nouicy",
-            "wilaya": 27
-        },
-        "pk": 339
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "ماسرة",
-            "name": "Mesra",
-            "wilaya": 27
-        },
-        "pk": 340
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "عين تادلس",
-            "name": "Ain Tedeles",
-            "wilaya": 27
-        },
-        "pk": 341
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "سيدي لخضر",
-            "name": "Sidi Lakhdar",
-            "wilaya": 27
-        },
-        "pk": 342
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "بوقيراط",
-            "name": "Bouguirat",
-            "wilaya": 27
-        },
-        "pk": 343
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "حاسي ماماش",
-            "name": "Hassi Mameche",
-            "wilaya": 27
-        },
-        "pk": 344
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "مستغانم",
-            "name": "Mostaganem",
-            "wilaya": 27
-        },
-        "pk": 345
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "سيدي علي",
-            "name": "Sidi Ali",
-            "wilaya": 27
-        },
-        "pk": 346
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "عين الحجل",
-            "name": "Ain El Hadjel",
-            "wilaya": 28
-        },
-        "pk": 347
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "عين الملح",
-            "name": "Ain El Melh",
-            "wilaya": 28
-        },
-        "pk": 348
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "مقرة",
-            "name": "Magra",
-            "wilaya": 28
-        },
-        "pk": 349
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "بن سرور",
-            "name": "Ben Srour",
-            "wilaya": 28
-        },
-        "pk": 350
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "سيدي عيسى",
-            "name": "Sidi Aissa",
-            "wilaya": 28
-        },
-        "pk": 351
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "أولاد سيدي ابراهيم",
-            "name": "Ouled Sidi Brahim",
-            "wilaya": 28
-        },
-        "pk": 352
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "بوسعادة",
-            "name": "Bousaada",
-            "wilaya": 28
-        },
-        "pk": 353
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "شلال",
-            "name": "Chellal",
-            "wilaya": 28
-        },
-        "pk": 354
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "جبل مساعد",
-            "name": "Djebel Messaad",
-            "wilaya": 28
-        },
-        "pk": 355
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "خبانة",
-            "name": "Khoubana",
-            "wilaya": 28
-        },
-        "pk": 356
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "حمام الضلعة",
-            "name": "Hammam Dalaa",
-            "wilaya": 28
-        },
-        "pk": 357
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "أولاد دراج",
-            "name": "Ouled Derradj",
-            "wilaya": 28
-        },
-        "pk": 358
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "امجدل",
-            "name": "Medjedel",
-            "wilaya": 28
-        },
-        "pk": 359
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "المسيلة",
-            "name": "M'sila",
-            "wilaya": 28
-        },
-        "pk": 360
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "سيدي عامر",
-            "name": "Sidi Ameur",
-            "wilaya": 28
-        },
-        "pk": 361
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "عين فارس",
-            "name": "Ain Fares",
-            "wilaya": 29
-        },
-        "pk": 362
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "عين فكان",
-            "name": "Ain Fekan",
-            "wilaya": 29
-        },
-        "pk": 363
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "وادي الأبطال",
-            "name": "Oued El Abtal",
-            "wilaya": 29
-        },
-        "pk": 364
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "عقاز",
-            "name": "Oggaz",
-            "wilaya": 29
-        },
-        "pk": 365
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "عوف",
-            "name": "Aouf",
-            "wilaya": 29
-        },
-        "pk": 366
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "سيق",
-            "name": "Sig",
-            "wilaya": 29
-        },
-        "pk": 367
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "بوحنيفية",
-            "name": "Bouhanifia",
-            "wilaya": 29
-        },
-        "pk": 368
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "البرج",
-            "name": "El Bordj",
-            "wilaya": 29
-        },
-        "pk": 369
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "زهانة",
-            "name": "Zahana",
-            "wilaya": 29
-        },
-        "pk": 370
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "المحمدية",
-            "name": "Mohammadia",
-            "wilaya": 29
-        },
-        "pk": 371
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "الحشم",
-            "name": "Hachem",
-            "wilaya": 29
-        },
-        "pk": 372
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "تيزي",
-            "name": "Tizi",
-            "wilaya": 29
-        },
-        "pk": 373
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "غريس",
-            "name": "Ghriss",
-            "wilaya": 29
-        },
-        "pk": 374
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "وادي التاغية",
-            "name": "Oued Taria",
-            "wilaya": 29
-        },
-        "pk": 375
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "معسكر",
-            "name": "Mascara",
-            "wilaya": 29
-        },
-        "pk": 376
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "تيغنيف",
-            "name": "Tighennif",
-            "wilaya": 29
-        },
-        "pk": 377
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "سيدي خويلد",
-            "name": "Sidi Khouiled",
-            "wilaya": 30
-        },
-        "pk": 378
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "الطيبات",
-            "name": "Taibet",
-            "wilaya": 55
-        },
-        "pk": 379
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "تماسين",
-            "name": "Temacine",
-            "wilaya": 55
-        },
-        "pk": 380
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "الحجيرة",
-            "name": "El-Hadjira",
-            "wilaya": 55
-        },
-        "pk": 381
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "البرمة",
-            "name": "El Borma",
-            "wilaya": 30
-        },
-        "pk": 382
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "حاسي مسعود",
-            "name": "Hassi Messaoud",
-            "wilaya": 30
-        },
-        "pk": 383
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "المقارين",
-            "name": "Megarine",
-            "wilaya": 55
-        },
-        "pk": 384
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "تقرت",
-            "name": "Touggourt",
-            "wilaya": 55
-        },
-        "pk": 385
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "انقوسة",
-            "name": "N'goussa",
-            "wilaya": 30
-        },
-        "pk": 386
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "ورقلة",
-            "name": "Ouargla",
-            "wilaya": 30
-        },
-        "pk": 387
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "بطيوة",
-            "name": "Bethioua",
-            "wilaya": 31
-        },
-        "pk": 388
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "بوتليليس",
-            "name": "Boutlelis",
-            "wilaya": 31
-        },
-        "pk": 389
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "عين الترك",
-            "name": "Ain Turk",
-            "wilaya": 31
-        },
-        "pk": 390
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "أرزيو",
-            "name": "Arzew",
-            "wilaya": 31
-        },
-        "pk": 391
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "قديل",
-            "name": "Gdyel",
-            "wilaya": 31
-        },
-        "pk": 392
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "بئر الجير",
-            "name": "Bir El Djir",
-            "wilaya": 31
-        },
-        "pk": 393
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "وادي تليلات",
-            "name": "Oued Tlelat",
-            "wilaya": 31
-        },
-        "pk": 394
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "السانية",
-            "name": "Es Senia",
-            "wilaya": 31
-        },
-        "pk": 395
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "وهران",
-            "name": "Oran",
-            "wilaya": 31
-        },
-        "pk": 396
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "الأبيض سيدي الشيخ",
-            "name": "Labiodh Sidi Cheikh",
-            "wilaya": 32
-        },
-        "pk": 397
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "بوعلام",
-            "name": "Boualem",
-            "wilaya": 32
-        },
-        "pk": 398
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "بوقطب",
-            "name": "Bougtoub",
-            "wilaya": 32
-        },
-        "pk": 399
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "بوسمغون",
-            "name": "Boussemghoun",
-            "wilaya": 32
-        },
-        "pk": 400
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "بريزينة",
-            "name": "Brezina",
-            "wilaya": 32
-        },
-        "pk": 401
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "رقاصة",
-            "name": "Rogassa",
-            "wilaya": 32
-        },
-        "pk": 402
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "شلالة",
-            "name": "Chellala",
-            "wilaya": 32
-        },
-        "pk": 403
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "البيض",
-            "name": "El Bayadh",
-            "wilaya": 32
-        },
-        "pk": 404
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "جانت",
-            "name": "Djanet",
-            "wilaya": 56
-        },
-        "pk": 405
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "إن أمناس",
-            "name": "In Amenas",
-            "wilaya": 33
-        },
-        "pk": 406
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "إيليزي",
-            "name": "Illizi",
-            "wilaya": 33
-        },
-        "pk": 407
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "عين تاغروت",
-            "name": "Ain Taghrout",
-            "wilaya": 34
-        },
-        "pk": 408
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "رأس الوادي",
-            "name": "Ras El Oued",
-            "wilaya": 34
-        },
-        "pk": 409
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "برج بوعريريج",
-            "name": "Bordj Bou Arreridj",
-            "wilaya": 34
-        },
-        "pk": 410
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "برج الغدير",
-            "name": "Bordj Ghedir",
-            "wilaya": 34
-        },
-        "pk": 411
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "المنصورة",
-            "name": "Mansourah",
-            "wilaya": 34
-        },
-        "pk": 412
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "بئر قاصد علي",
-            "name": "Bir Kasdali",
-            "wilaya": 34
-        },
-        "pk": 413
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "برج زمورة",
-            "name": "Bordj Zemmoura",
-            "wilaya": 34
-        },
-        "pk": 414
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "جعافرة",
-            "name": "Djaafra",
-            "wilaya": 34
-        },
-        "pk": 415
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "الحمادية",
-            "name": "El Hamadia",
-            "wilaya": 34
-        },
-        "pk": 416
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "مجانة",
-            "name": "Medjana",
-            "wilaya": 34
-        },
-        "pk": 417
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "دلس",
-            "name": "Dellys",
-            "wilaya": 35
-        },
-        "pk": 418
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "الثنية",
-            "name": "Thenia",
-            "wilaya": 35
-        },
-        "pk": 419
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "بغلية",
-            "name": "Baghlia",
-            "wilaya": 35
-        },
-        "pk": 420
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "برج منايل",
-            "name": "Bordj Menaiel",
-            "wilaya": 35
-        },
-        "pk": 421
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "بودواو",
-            "name": "Boudouaou",
-            "wilaya": 35
-        },
-        "pk": 422
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "بومرداس",
-            "name": "Boumerdes",
-            "wilaya": 35
-        },
-        "pk": 423
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "يسر",
-            "name": "Isser",
-            "wilaya": 35
-        },
-        "pk": 424
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "خميس الخشنة",
-            "name": "Khemis El Khechna",
-            "wilaya": 35
-        },
-        "pk": 425
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "الناصرية",
-            "name": "Naciria",
-            "wilaya": 35
-        },
-        "pk": 426
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "الطارف",
-            "name": "El Tarf",
-            "wilaya": 36
-        },
-        "pk": 427
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "بوحجار",
-            "name": "Bouhadjar",
-            "wilaya": 36
-        },
-        "pk": 428
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "البسباس",
-            "name": "Besbes",
-            "wilaya": 36
-        },
-        "pk": 429
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "بن مهيدي",
-            "name": "Ben M'hidi",
-            "wilaya": 36
-        },
-        "pk": 430
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "بوثلجة",
-            "name": "Bouteldja",
-            "wilaya": 36
-        },
-        "pk": 431
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "الذرعان",
-            "name": "Drean",
-            "wilaya": 36
-        },
-        "pk": 432
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "القالة",
-            "name": "El Kala",
-            "wilaya": 36
-        },
-        "pk": 433
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "تندوف",
-            "name": "Tindouf",
-            "wilaya": 37
-        },
-        "pk": 434
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "عماري",
-            "name": "Ammari",
-            "wilaya": 38
-        },
-        "pk": 435
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "برج بونعامة",
-            "name": "Bordj Bounaama",
-            "wilaya": 38
-        },
-        "pk": 436
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "برج الأمير عبد القادر",
-            "name": "Bordj Emir Abdelkader",
-            "wilaya": 38
-        },
-        "pk": 437
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "الأزهرية",
-            "name": "Lazharia",
-            "wilaya": 38
-        },
-        "pk": 438
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "خميستي",
-            "name": "Khemisti",
-            "wilaya": 38
-        },
-        "pk": 439
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "لرجام",
-            "name": "Lardjem",
-            "wilaya": 38
-        },
-        "pk": 440
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "تيسمسيلت",
-            "name": "Tissemsilt",
-            "wilaya": 38
-        },
-        "pk": 441
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "ثنية الاحد",
-            "name": "Theniet El Had",
-            "wilaya": 38
-        },
-        "pk": 442
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "البياضة",
-            "name": "Bayadha",
-            "wilaya": 39
-        },
-        "pk": 443
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "الطالب العربي",
-            "name": "Taleb Larbi",
-            "wilaya": 39
-        },
-        "pk": 444
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "الدبيلة",
-            "name": "Debila",
-            "wilaya": 39
-        },
-        "pk": 445
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "جامعة",
-            "name": "Djamaa",
-            "wilaya": 57
-        },
-        "pk": 446
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "الرباح",
-            "name": "Robbah",
-            "wilaya": 39
-        },
-        "pk": 447
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "المغير",
-            "name": "El Meghaier",
-            "wilaya": 57
-        },
-        "pk": 448
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "الوادي",
-            "name": "El Oued",
-            "wilaya": 39
-        },
-        "pk": 449
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "قمار",
-            "name": "Guemar",
-            "wilaya": 39
-        },
-        "pk": 450
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "الرقيبة",
-            "name": "Reguiba",
-            "wilaya": 39
-        },
-        "pk": 451
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "حاسي خليفة",
-            "name": "Hassi Khalifa",
-            "wilaya": 39
-        },
-        "pk": 452
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "المقرن",
-            "name": "Magrane",
-            "wilaya": 39
-        },
-        "pk": 453
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "اميه وانسة",
-            "name": "Mih Ouensa",
-            "wilaya": 39
-        },
-        "pk": 454
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "عين الطويلة",
-            "name": "Ain Touila",
-            "wilaya": 40
-        },
-        "pk": 455
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "بابار",
-            "name": "Babar",
-            "wilaya": 40
-        },
-        "pk": 456
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "الحامة",
-            "name": "El Hamma",
-            "wilaya": 40
-        },
-        "pk": 457
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "بوحمامة",
-            "name": "Bouhmama",
-            "wilaya": 40
-        },
-        "pk": 458
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "ششار",
-            "name": "Chechar",
-            "wilaya": 40
-        },
-        "pk": 459
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "أولاد رشاش",
-            "name": "Ouled Rechache",
-            "wilaya": 40
-        },
-        "pk": 460
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "قايس",
-            "name": "Kais",
-            "wilaya": 40
-        },
-        "pk": 461
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "خنشلة",
-            "name": "Khenchela",
-            "wilaya": 40
-        },
-        "pk": 462
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "سدراتة",
-            "name": "Sedrata",
-            "wilaya": 41
-        },
-        "pk": 463
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "أولاد إدريس",
-            "name": "Ouled Driss",
-            "wilaya": 41
-        },
-        "pk": 464
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "بئر بوحوش",
-            "name": "Bir Bouhouche",
-            "wilaya": 41
-        },
-        "pk": 465
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "تاورة",
-            "name": "Taoura",
-            "wilaya": 41
-        },
-        "pk": 466
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "الحدادة",
-            "name": "Haddada",
-            "wilaya": 41
-        },
-        "pk": 467
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "المشروحة",
-            "name": "Mechroha",
-            "wilaya": 41
-        },
-        "pk": 468
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "مداوروش",
-            "name": "M'daourouche",
-            "wilaya": 41
-        },
-        "pk": 469
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "المراهنة",
-            "name": "Merahna",
-            "wilaya": 41
-        },
-        "pk": 470
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "أم العظايم",
-            "name": "Oum El Adhaim",
-            "wilaya": 41
-        },
-        "pk": 471
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "سوق أهراس",
-            "name": "Souk Ahras",
-            "wilaya": 41
-        },
-        "pk": 472
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "قوراية",
-            "name": "Gouraya",
-            "wilaya": 42
-        },
-        "pk": 473
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "أحمر العين",
-            "name": "Ahmar El Ain",
-            "wilaya": 42
-        },
-        "pk": 474
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "بواسماعيل",
-            "name": "Bou Ismail",
-            "wilaya": 42
-        },
-        "pk": 475
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "القليعة",
-            "name": "Kolea",
-            "wilaya": 42
-        },
-        "pk": 476
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "الداموس",
-            "name": "Damous",
-            "wilaya": 42
-        },
-        "pk": 477
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "شرشال",
-            "name": "Cherchell",
-            "wilaya": 42
-        },
-        "pk": 478
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "فوكة",
-            "name": "Fouka",
-            "wilaya": 42
-        },
-        "pk": 479
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "حجوط",
-            "name": "Hadjout",
-            "wilaya": 42
-        },
-        "pk": 480
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "سيدي أعمر",
-            "name": "Sidi Amar",
-            "wilaya": 42
-        },
-        "pk": 481
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "تيبازة",
-            "name": "Tipaza",
-            "wilaya": 42
-        },
-        "pk": 482
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "وادي النجاء",
-            "name": "Oued Endja",
-            "wilaya": 43
-        },
-        "pk": 483
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "عين البيضاء أحريش",
-            "name": "Ain Beida Harriche",
-            "wilaya": 43
-        },
-        "pk": 484
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "شلغوم العيد",
-            "name": "Chelghoum Laid",
-            "wilaya": 43
-        },
-        "pk": 485
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "ميلة",
-            "name": "Mila",
-            "wilaya": 43
-        },
-        "pk": 486
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "ترعي باينان",
-            "name": "Terrai Bainen",
-            "wilaya": 43
-        },
-        "pk": 487
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "تاجنانت",
-            "name": "Tadjenanet",
-            "wilaya": 43
-        },
-        "pk": 488
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "بوحاتم",
-            "name": "Bouhatem",
-            "wilaya": 43
-        },
-        "pk": 489
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "سيدي مروان",
-            "name": "Sidi Merouane",
-            "wilaya": 43
-        },
-        "pk": 490
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "التلاغمة",
-            "name": "Teleghma",
-            "wilaya": 43
-        },
-        "pk": 491
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "فرجيوة",
-            "name": "Ferdjioua",
-            "wilaya": 43
-        },
-        "pk": 492
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "القرارم قوقة",
-            "name": "Grarem Gouga",
-            "wilaya": 43
-        },
-        "pk": 493
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "تسدان حدادة",
-            "name": "Tassadane Haddada",
-            "wilaya": 43
-        },
-        "pk": 494
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "الرواشد",
-            "name": "Rouached",
-            "wilaya": 43
-        },
-        "pk": 495
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "حمام ريغة",
-            "name": "Hammam Righa",
-            "wilaya": 44
-        },
-        "pk": 496
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "العبادية",
-            "name": "El Abadia",
-            "wilaya": 44
-        },
-        "pk": 497
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "عين الدفلى",
-            "name": "Ain Defla",
-            "wilaya": 44
-        },
-        "pk": 498
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "عين الاشياخ",
-            "name": "Ain Lechiakh",
-            "wilaya": 44
-        },
-        "pk": 499
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "العامرة",
-            "name": "El Amra",
-            "wilaya": 44
-        },
-        "pk": 500
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "جندل",
-            "name": "Djendel",
-            "wilaya": 44
-        },
-        "pk": 501
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "بطحية",
-            "name": "Bathia",
-            "wilaya": 44
-        },
-        "pk": 502
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "مليانة",
-            "name": "Miliana",
-            "wilaya": 44
-        },
-        "pk": 503
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "برج الأمير خالد",
-            "name": "Bordj El Emir Khaled",
-            "wilaya": 44
-        },
-        "pk": 504
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "بومدفع",
-            "name": "Boumedfaa",
-            "wilaya": 44
-        },
-        "pk": 505
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "جليدة",
-            "name": "Djelida",
-            "wilaya": 44
-        },
-        "pk": 506
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "العطاف",
-            "name": "El Attaf",
-            "wilaya": 44
-        },
-        "pk": 507
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "الروينة",
-            "name": "Rouina",
-            "wilaya": 44
-        },
-        "pk": 508
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "خميس",
-            "name": "Khemis",
-            "wilaya": 44
-        },
-        "pk": 509
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "المشرية",
-            "name": "Mecheria",
-            "wilaya": 45
-        },
-        "pk": 510
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "عين الصفراء",
-            "name": "Ain Sefra",
-            "wilaya": 45
-        },
-        "pk": 511
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "عسلة",
-            "name": "Asla",
-            "wilaya": 45
-        },
-        "pk": 512
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "مغرار",
-            "name": "Moghrar",
-            "wilaya": 45
-        },
-        "pk": 513
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "مكمن بن عمار",
-            "name": "Mekmen Ben Amar",
-            "wilaya": 45
-        },
-        "pk": 514
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "النعامة",
-            "name": "Naama",
-            "wilaya": 45
-        },
-        "pk": 515
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "سفيسيفة",
-            "name": "Sfissifa",
-            "wilaya": 45
-        },
-        "pk": 516
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "عين الكيحل",
-            "name": "Ain Kihel",
-            "wilaya": 46
-        },
-        "pk": 517
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "عين الأربعاء",
-            "name": "Ain Larbaa",
-            "wilaya": 46
-        },
-        "pk": 518
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "عين تموشنت",
-            "name": "Ain Temouchent",
-            "wilaya": 46
-        },
-        "pk": 519
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "بني صاف",
-            "name": "Beni Saf",
-            "wilaya": 46
-        },
-        "pk": 520
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "العامرية",
-            "name": "El Amria",
-            "wilaya": 46
-        },
-        "pk": 521
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "المالح",
-            "name": "El Maleh",
-            "wilaya": 46
-        },
-        "pk": 522
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "حمام بوحجر",
-            "name": "Hammam Bou Hadjar",
-            "wilaya": 46
-        },
-        "pk": 523
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "ولهاصة الغرابة",
-            "name": "Oulhassa Gheraba",
-            "wilaya": 46
-        },
-        "pk": 524
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "بريان",
-            "name": "Berriane",
-            "wilaya": 47
-        },
-        "pk": 525
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "بونورة",
-            "name": "Bounoura",
-            "wilaya": 47
-        },
-        "pk": 526
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "ضاية بن ضحوة",
-            "name": "Dhayet Ben Dhahoua",
-            "wilaya": 47
-        },
-        "pk": 527
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "المنيعة",
-            "name": "El Menia",
-            "wilaya": 58
-        },
-        "pk": 528
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "غرداية",
-            "name": "Ghardaia",
-            "wilaya": 47
-        },
-        "pk": 529
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "القرارة",
-            "name": "El Guerrara",
-            "wilaya": 47
-        },
-        "pk": 530
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "المنصورة",
-            "name": "Mansourah",
-            "wilaya": 58
-        },
-        "pk": 531
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "المنصورة",
-            "name": "Mansourah",
-            "wilaya": 47
-        },
-        "pk": 532
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "متليلي",
-            "name": "Metlili",
-            "wilaya": 47
-        },
-        "pk": 533
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "زلفانة",
-            "name": "Zelfana",
-            "wilaya": 47
-        },
-        "pk": 534
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "يلل",
-            "name": "Yellel",
-            "wilaya": 48
-        },
-        "pk": 535
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "عين طارق",
-            "name": "Ain Tarek",
-            "wilaya": 48
-        },
-        "pk": 536
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "عمي موسى",
-            "name": "Ammi Moussa",
-            "wilaya": 48
-        },
-        "pk": 537
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "المطمر",
-            "name": "El Matmar",
-            "wilaya": 48
-        },
-        "pk": 538
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "غليزان",
-            "name": "Relizane",
-            "wilaya": 48
-        },
-        "pk": 539
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "زمورة",
-            "name": "Zemmoura",
-            "wilaya": 48
-        },
-        "pk": 540
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "سيدي أمحمد بن علي",
-            "name": "Sidi M'hamed Ben Ali",
-            "wilaya": 48
-        },
-        "pk": 541
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "جديوية",
-            "name": "Djidiouia",
-            "wilaya": 48
-        },
-        "pk": 542
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "الحمادنة",
-            "name": "El H'madna",
-            "wilaya": 48
-        },
-        "pk": 543
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "مازونة",
-            "name": "Mazouna",
-            "wilaya": 48
-        },
-        "pk": 544
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "وادي رهيو",
-            "name": "Oued Rhiou",
-            "wilaya": 48
-        },
-        "pk": 545
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "منداس",
-            "name": "Mendes",
-            "wilaya": 48
-        },
-        "pk": 546
-    },
-    {
-        "model": "algerography.daira",
-        "fields": {
-            "ar_name": "الرمكة",
-            "name": "Ramka",
-            "wilaya": 48
-        },
-        "pk": 547
+      "name": "Adrar",
+      "ar_name": "أدرار",
+      "wilaya": 1
+    },
+    {
+      "name": "Aoulef",
+      "ar_name": "أولف",
+      "wilaya": 1
+    },
+    {
+      "name": "Aougrout",
+      "ar_name": "أوقروت",
+      "wilaya": 49
+    },
+    {
+      "name": "Bordj Badji Mokhtar",
+      "ar_name": "برج باجي مختار",
+      "wilaya": 50
+    },
+    {
+      "name": "Charouine",
+      "ar_name": "شروين",
+      "wilaya": 49
+    },
+    {
+      "name": "Fenoughil",
+      "ar_name": "فنوغيل",
+      "wilaya": 1
+    },
+    {
+      "name": "Zaouiat Kounta",
+      "ar_name": "زاوية كنتة",
+      "wilaya": 1
+    },
+    {
+      "name": "Tinerkouk",
+      "ar_name": "تنركوك",
+      "wilaya": 49
+    },
+    {
+      "name": "Timimoun",
+      "ar_name": "تيميمون",
+      "wilaya": 49
+    },
+    {
+      "name": "Reggane",
+      "ar_name": "رقان",
+      "wilaya": 1
+    },
+    {
+      "name": "Tsabit",
+      "ar_name": "تسابيت",
+      "wilaya": 1
+    },
+    {
+      "name": "Abou El Hassane",
+      "ar_name": "أبو الحسن",
+      "wilaya": 2
+    },
+    {
+      "name": "Ain Merane",
+      "ar_name": "عين مران",
+      "wilaya": 2
+    },
+    {
+      "name": "Zeboudja",
+      "ar_name": "الزبوجة",
+      "wilaya": 2
+    },
+    {
+      "name": "El Karimia",
+      "ar_name": "الكريمية",
+      "wilaya": 2
+    },
+    {
+      "name": "Beni Haoua",
+      "ar_name": "بني حواء",
+      "wilaya": 2
+    },
+    {
+      "name": "Oued Fodda",
+      "ar_name": "وادي الفضة",
+      "wilaya": 2
+    },
+    {
+      "name": "Boukadir",
+      "ar_name": "بوقادير",
+      "wilaya": 2
+    },
+    {
+      "name": "Ouled Fares",
+      "ar_name": "أولاد فارس",
+      "wilaya": 2
+    },
+    {
+      "name": "Chlef",
+      "ar_name": "الشلف",
+      "wilaya": 2
+    },
+    {
+      "name": "Taougrit",
+      "ar_name": "تاوقريت",
+      "wilaya": 2
+    },
+    {
+      "name": "Ouled Ben Abdelkader",
+      "ar_name": "أولاد بن عبد القادر",
+      "wilaya": 2
+    },
+    {
+      "name": "El Marsa",
+      "ar_name": "المرسى",
+      "wilaya": 2
+    },
+    {
+      "name": "Tenes",
+      "ar_name": "تنس",
+      "wilaya": 2
+    },
+    {
+      "name": "Aflou",
+      "ar_name": "أفلو",
+      "wilaya": 3
+    },
+    {
+      "name": "Ain Madhi",
+      "ar_name": "عين ماضي",
+      "wilaya": 3
+    },
+    {
+      "name": "Gueltat Sidi Saad",
+      "ar_name": "قتلة سيدي سعيد",
+      "wilaya": 3
+    },
+    {
+      "name": "Ksar El Hirane",
+      "ar_name": "قصر الحيران",
+      "wilaya": 3
+    },
+    {
+      "name": "Brida",
+      "ar_name": "بريدة",
+      "wilaya": 3
+    },
+    {
+      "name": "Sidi Makhlouf",
+      "ar_name": "سيدي مخلوف",
+      "wilaya": 3
+    },
+    {
+      "name": "El Ghicha",
+      "ar_name": "الغيشة",
+      "wilaya": 3
+    },
+    {
+      "name": "Hassi R'mel",
+      "ar_name": "حاسي الرمل",
+      "wilaya": 3
+    },
+    {
+      "name": "Laghouat",
+      "ar_name": "الأغواط",
+      "wilaya": 3
+    },
+    {
+      "name": "Oued Morra",
+      "ar_name": "وادي مرة",
+      "wilaya": 3
+    },
+    {
+      "name": "Ain Babouche",
+      "ar_name": "عين ببوش",
+      "wilaya": 4
+    },
+    {
+      "name": "Ain Beida",
+      "ar_name": "عين البيضاء",
+      "wilaya": 4
+    },
+    {
+      "name": "Ain Fekroun",
+      "ar_name": "عين فكرون",
+      "wilaya": 4
+    },
+    {
+      "name": "Ain Kercha",
+      "ar_name": "عين كرشة",
+      "wilaya": 4
+    },
+    {
+      "name": "Ain M'lila",
+      "ar_name": "عين مليلة",
+      "wilaya": 4
+    },
+    {
+      "name": "Oum El Bouaghi",
+      "ar_name": "أم البواقي",
+      "wilaya": 4
+    },
+    {
+      "name": "Meskiana",
+      "ar_name": "مسكيانة",
+      "wilaya": 4
+    },
+    {
+      "name": "Souk Naamane",
+      "ar_name": "سوق نعمان",
+      "wilaya": 4
+    },
+    {
+      "name": "Dhalaa",
+      "ar_name": "الضلعة",
+      "wilaya": 4
+    },
+    {
+      "name": "Sigus",
+      "ar_name": "سيقوس",
+      "wilaya": 4
+    },
+    {
+      "name": "F'kirina",
+      "ar_name": "فكيرينة",
+      "wilaya": 4
+    },
+    {
+      "name": "Ksar Sbahi",
+      "ar_name": "قصر الصباحي",
+      "wilaya": 4
+    },
+    {
+      "name": "Ain Djasser",
+      "ar_name": "عين جاسر",
+      "wilaya": 5
+    },
+    {
+      "name": "Ain Touta",
+      "ar_name": "عين التوتة",
+      "wilaya": 5
+    },
+    {
+      "name": "El Madher",
+      "ar_name": "المعذر",
+      "wilaya": 5
+    },
+    {
+      "name": "Arris",
+      "ar_name": "أريس",
+      "wilaya": 5
+    },
+    {
+      "name": "Djezzar",
+      "ar_name": "الجزار",
+      "wilaya": 5
+    },
+    {
+      "name": "Barika",
+      "ar_name": "بريكة",
+      "wilaya": 5
+    },
+    {
+      "name": "Batna",
+      "ar_name": "باتنة",
+      "wilaya": 5
+    },
+    {
+      "name": "Chemora",
+      "ar_name": "الشمرة",
+      "wilaya": 5
+    },
+    {
+      "name": "N'gaous",
+      "ar_name": "نقاوس",
+      "wilaya": 5
+    },
+    {
+      "name": "Bouzina",
+      "ar_name": "بوزينة",
+      "wilaya": 5
+    },
+    {
+      "name": "Theniet El Abed",
+      "ar_name": "ثنية العابد",
+      "wilaya": 5
+    },
+    {
+      "name": "Ichemoul",
+      "ar_name": "إشمول",
+      "wilaya": 5
+    },
+    {
+      "name": "Tkout",
+      "ar_name": "تكوت",
+      "wilaya": 5
+    },
+    {
+      "name": "Ras El Aioun",
+      "ar_name": "رأس العيون",
+      "wilaya": 5
+    },
+    {
+      "name": "Merouana",
+      "ar_name": "مروانة",
+      "wilaya": 5
+    },
+    {
+      "name": "Seriana",
+      "ar_name": "سريانة",
+      "wilaya": 5
+    },
+    {
+      "name": "Ouled Si Slimane",
+      "ar_name": "أولاد سي سليمان",
+      "wilaya": 5
+    },
+    {
+      "name": "Menaa",
+      "ar_name": "منعة",
+      "wilaya": 5
+    },
+    {
+      "name": "Timgad",
+      "ar_name": "تيمقاد",
+      "wilaya": 5
+    },
+    {
+      "name": "Tazoult",
+      "ar_name": "تازولت",
+      "wilaya": 5
+    },
+    {
+      "name": "Seggana",
+      "ar_name": "سقانة",
+      "wilaya": 5
+    },
+    {
+      "name": "Adekar",
+      "ar_name": "أدكار",
+      "wilaya": 6
+    },
+    {
+      "name": "Ighil Ali",
+      "ar_name": "إغيل علي",
+      "wilaya": 6
+    },
+    {
+      "name": "Darguina",
+      "ar_name": "درقينة",
+      "wilaya": 6
+    },
+    {
+      "name": "Akbou",
+      "ar_name": "أقبو",
+      "wilaya": 6
+    },
+    {
+      "name": "Chemini",
+      "ar_name": "شميني",
+      "wilaya": 6
+    },
+    {
+      "name": "Seddouk",
+      "ar_name": "صدوق",
+      "wilaya": 6
+    },
+    {
+      "name": "Amizour",
+      "ar_name": "أميزور",
+      "wilaya": 6
+    },
+    {
+      "name": "Aokas",
+      "ar_name": "أوقاس",
+      "wilaya": 6
+    },
+    {
+      "name": "Barbacha",
+      "ar_name": "برباشة",
+      "wilaya": 6
+    },
+    {
+      "name": "Bejaia",
+      "ar_name": "بجاية",
+      "wilaya": 6
+    },
+    {
+      "name": "Tazmalt",
+      "ar_name": "تازملت",
+      "wilaya": 6
+    },
+    {
+      "name": "Beni Maouche",
+      "ar_name": "بني معوش",
+      "wilaya": 6
+    },
+    {
+      "name": "Tichy",
+      "ar_name": "تيشي",
+      "wilaya": 6
+    },
+    {
+      "name": "Kherrata",
+      "ar_name": "خراطة",
+      "wilaya": 6
+    },
+    {
+      "name": "Sidi Aich",
+      "ar_name": "سيدي عيش",
+      "wilaya": 6
+    },
+    {
+      "name": "El Kseur",
+      "ar_name": "القصر",
+      "wilaya": 6
+    },
+    {
+      "name": "Ifri Ouzellaguene",
+      "ar_name": "إفري أوزلاقن",
+      "wilaya": 6
+    },
+    {
+      "name": "Souk El Tenine",
+      "ar_name": "سوق الإثنين",
+      "wilaya": 6
+    },
+    {
+      "name": "Timezrit",
+      "ar_name": "تيمزريت",
+      "wilaya": 6
+    },
+    {
+      "name": "Sidi Okba",
+      "ar_name": "سيدي عقبة",
+      "wilaya": 7
+    },
+    {
+      "name": "El Kantara",
+      "ar_name": "القنطرة",
+      "wilaya": 7
+    },
+    {
+      "name": "Sidi Khaled",
+      "ar_name": "سيدي خالد",
+      "wilaya": 51
+    },
+    {
+      "name": "Biskra",
+      "ar_name": "بسكرة",
+      "wilaya": 7
+    },
+    {
+      "name": "Tolga",
+      "ar_name": "طولقة",
+      "wilaya": 7
+    },
+    {
+      "name": "Djemorah",
+      "ar_name": "جمورة",
+      "wilaya": 7
+    },
+    {
+      "name": "Ouled Djellal",
+      "ar_name": "أولاد جلال",
+      "wilaya": 51
+    },
+    {
+      "name": "Zeribet El Oued",
+      "ar_name": "زريبة الوادي",
+      "wilaya": 7
+    },
+    {
+      "name": "Foughala",
+      "ar_name": "فوغالة",
+      "wilaya": 7
+    },
+    {
+      "name": "El Outaya",
+      "ar_name": "الوطاية",
+      "wilaya": 7
+    },
+    {
+      "name": "Ourlal",
+      "ar_name": "أورلال",
+      "wilaya": 7
+    },
+    {
+      "name": "Mechouneche",
+      "ar_name": "مشونش",
+      "wilaya": 7
+    },
+    {
+      "name": "Abadla",
+      "ar_name": "العبادلة",
+      "wilaya": 8
+    },
+    {
+      "name": "Bechar",
+      "ar_name": "بشار",
+      "wilaya": 8
+    },
+    {
+      "name": "Beni Abbes",
+      "ar_name": "بني عباس",
+      "wilaya": 52
+    },
+    {
+      "name": "Kerzaz",
+      "ar_name": "كرزاز",
+      "wilaya": 52
+    },
+    {
+      "name": "Beni Ounif",
+      "ar_name": "بني ونيف",
+      "wilaya": 8
+    },
+    {
+      "name": "Lahmar",
+      "ar_name": "لحمر",
+      "wilaya": 8
+    },
+    {
+      "name": "El Ouata",
+      "ar_name": "الواتة",
+      "wilaya": 52
+    },
+    {
+      "name": "Igli",
+      "ar_name": "إقلي",
+      "wilaya": 52
+    },
+    {
+      "name": "Kenadsa",
+      "ar_name": "القنادسة",
+      "wilaya": 8
+    },
+    {
+      "name": "Ouled Khodeir",
+      "ar_name": "أولاد خضير",
+      "wilaya": 52
+    },
+    {
+      "name": "Tabelbala",
+      "ar_name": "تبلبالة",
+      "wilaya": 8
+    },
+    {
+      "name": "Taghit",
+      "ar_name": "تاغيت",
+      "wilaya": 8
+    },
+    {
+      "name": "Mouzaia",
+      "ar_name": "موزاية",
+      "wilaya": 9
+    },
+    {
+      "name": "Ouled Yaich",
+      "ar_name": "أولاد يعيش",
+      "wilaya": 9
+    },
+    {
+      "name": "Oued El Alleug",
+      "ar_name": "وادي العلايق",
+      "wilaya": 9
+    },
+    {
+      "name": "Blida",
+      "ar_name": "البليدة",
+      "wilaya": 9
+    },
+    {
+      "name": "Boufarik",
+      "ar_name": "بوفاريك",
+      "wilaya": 9
+    },
+    {
+      "name": "Bougara",
+      "ar_name": "بوقرة",
+      "wilaya": 9
+    },
+    {
+      "name": "Bouinan",
+      "ar_name": "بوعينان",
+      "wilaya": 9
+    },
+    {
+      "name": "Meftah",
+      "ar_name": "مفتاح",
+      "wilaya": 9
+    },
+    {
+      "name": "El Affroun",
+      "ar_name": "العفرون",
+      "wilaya": 9
+    },
+    {
+      "name": "Larbaa",
+      "ar_name": "الأربعاء",
+      "wilaya": 9
+    },
+    {
+      "name": "M'chedallah",
+      "ar_name": "مشد الله",
+      "wilaya": 10
+    },
+    {
+      "name": "Bechloul",
+      "ar_name": "بشلول",
+      "wilaya": 10
+    },
+    {
+      "name": "Ain Bessem",
+      "ar_name": "عين بسام",
+      "wilaya": 10
+    },
+    {
+      "name": "Bouira",
+      "ar_name": "البويرة",
+      "wilaya": 10
+    },
+    {
+      "name": "Kadiria",
+      "ar_name": "القادرية",
+      "wilaya": 10
+    },
+    {
+      "name": "Bir Ghbalou",
+      "ar_name": "بئر غبالو",
+      "wilaya": 10
+    },
+    {
+      "name": "Bordj Okhriss",
+      "ar_name": "برج أوخريص",
+      "wilaya": 10
+    },
+    {
+      "name": "Lakhdaria",
+      "ar_name": "الأخضرية",
+      "wilaya": 10
+    },
+    {
+      "name": "Sour El Ghozlane",
+      "ar_name": "سور الغزلان",
+      "wilaya": 10
+    },
+    {
+      "name": "El Hachimia",
+      "ar_name": "الهاشمية",
+      "wilaya": 10
+    },
+    {
+      "name": "Souk El Khemis",
+      "ar_name": "سوق الخميس",
+      "wilaya": 10
+    },
+    {
+      "name": "Haizer",
+      "ar_name": "الحيزر",
+      "wilaya": 10
+    },
+    {
+      "name": "Silet",
+      "ar_name": "سيلت",
+      "wilaya": 11
+    },
+    {
+      "name": "Tamanrasset",
+      "ar_name": "تمنراست",
+      "wilaya": 11
+    },
+    {
+      "name": "In Guezzam",
+      "ar_name": "عين قزام",
+      "wilaya": 54
+    },
+    {
+      "name": "In Salah",
+      "ar_name": "عين صالح",
+      "wilaya": 53
+    },
+    {
+      "name": "Tazrouk",
+      "ar_name": "تاظروك",
+      "wilaya": 11
+    },
+    {
+      "name": "In Ghar",
+      "ar_name": "إينغر",
+      "wilaya": 53
+    },
+    {
+      "name": "Tin Zouatine",
+      "ar_name": "تين زواتين",
+      "wilaya": 54
+    },
+    {
+      "name": "Ouenza",
+      "ar_name": "الونزة",
+      "wilaya": 12
+    },
+    {
+      "name": "El Ogla",
+      "ar_name": "العقلة",
+      "wilaya": 12
+    },
+    {
+      "name": "El Kouif",
+      "ar_name": "الكويف",
+      "wilaya": 12
+    },
+    {
+      "name": "Morsott",
+      "ar_name": "مرسط",
+      "wilaya": 12
+    },
+    {
+      "name": "Bir Mokadem",
+      "ar_name": "بئر مقدم",
+      "wilaya": 12
+    },
+    {
+      "name": "Bir El Ater",
+      "ar_name": "بئر العاتر",
+      "wilaya": 12
+    },
+    {
+      "name": "El Aouinet",
+      "ar_name": "العوينات",
+      "wilaya": 12
+    },
+    {
+      "name": "Cheria",
+      "ar_name": "الشريعة",
+      "wilaya": 12
+    },
+    {
+      "name": "El Malabiod",
+      "ar_name": "الماء الابيض",
+      "wilaya": 12
+    },
+    {
+      "name": "Negrine",
+      "ar_name": "نقرين",
+      "wilaya": 12
+    },
+    {
+      "name": "Oum Ali",
+      "ar_name": "أم علي",
+      "wilaya": 12
+    },
+    {
+      "name": "Tebessa",
+      "ar_name": "تبسة",
+      "wilaya": 12
+    },
+    {
+      "name": "Fellaoucene",
+      "ar_name": "فلاوسن",
+      "wilaya": 13
+    },
+    {
+      "name": "Chetouane",
+      "ar_name": "شتوان",
+      "wilaya": 13
+    },
+    {
+      "name": "Mansourah",
+      "ar_name": "منصورة",
+      "wilaya": 13
+    },
+    {
+      "name": "Ain Tellout",
+      "ar_name": "عين تالوت",
+      "wilaya": 13
+    },
+    {
+      "name": "Remchi",
+      "ar_name": "الرمشي",
+      "wilaya": 13
+    },
+    {
+      "name": "Bab El Assa",
+      "ar_name": "باب العسة",
+      "wilaya": 13
+    },
+    {
+      "name": "Beni Snous",
+      "ar_name": "بني سنوس",
+      "wilaya": 13
+    },
+    {
+      "name": "Beni Boussaid",
+      "ar_name": "بني بوسعيد",
+      "wilaya": 13
+    },
+    {
+      "name": "Honnaine",
+      "ar_name": "هنين",
+      "wilaya": 13
+    },
+    {
+      "name": "Ouled Mimoun",
+      "ar_name": "أولاد ميمون",
+      "wilaya": 13
+    },
+    {
+      "name": "Bensekrane",
+      "ar_name": "بن سكران",
+      "wilaya": 13
+    },
+    {
+      "name": "Sabra",
+      "ar_name": "صبرة",
+      "wilaya": 13
+    },
+    {
+      "name": "Sidi Djillali",
+      "ar_name": "سيدي الجيلالي",
+      "wilaya": 13
+    },
+    {
+      "name": "Ghazaouet",
+      "ar_name": "الغزوات",
+      "wilaya": 13
+    },
+    {
+      "name": "Nedroma",
+      "ar_name": "ندرومة",
+      "wilaya": 13
+    },
+    {
+      "name": "Sebdou",
+      "ar_name": "سبدو",
+      "wilaya": 13
+    },
+    {
+      "name": "Maghnia",
+      "ar_name": "مغنية",
+      "wilaya": 13
+    },
+    {
+      "name": "Hennaya",
+      "ar_name": "الحناية",
+      "wilaya": 13
+    },
+    {
+      "name": "Marsa Ben Mehdi",
+      "ar_name": "مرسى بن مهيدي",
+      "wilaya": 13
+    },
+    {
+      "name": "Tlemcen",
+      "ar_name": "تلمسان",
+      "wilaya": 13
+    },
+    {
+      "name": "Dahmouni",
+      "ar_name": "دحموني",
+      "wilaya": 14
+    },
+    {
+      "name": "Ain Deheb",
+      "ar_name": "عين الذهب",
+      "wilaya": 14
+    },
+    {
+      "name": "Mahdia",
+      "ar_name": "مهدية",
+      "wilaya": 14
+    },
+    {
+      "name": "Frenda",
+      "ar_name": "فرندة",
+      "wilaya": 14
+    },
+    {
+      "name": "Ain Kermes",
+      "ar_name": "عين كرمس",
+      "wilaya": 14
+    },
+    {
+      "name": "Hamadia",
+      "ar_name": "حمادية",
+      "wilaya": 14
+    },
+    {
+      "name": "Mechraa Sfa",
+      "ar_name": "مشرع الصفا",
+      "wilaya": 14
+    },
+    {
+      "name": "Sougueur",
+      "ar_name": "السوقر",
+      "wilaya": 14
+    },
+    {
+      "name": "Rahouia",
+      "ar_name": "رحوية",
+      "wilaya": 14
+    },
+    {
+      "name": "Ksar Chellala",
+      "ar_name": "قصر الشلالة",
+      "wilaya": 14
+    },
+    {
+      "name": "Medroussa",
+      "ar_name": "مدروسة",
+      "wilaya": 14
+    },
+    {
+      "name": "Meghila",
+      "ar_name": "مغيلة",
+      "wilaya": 14
+    },
+    {
+      "name": "Oued Lili",
+      "ar_name": "وادي ليلي",
+      "wilaya": 14
+    },
+    {
+      "name": "Tiaret",
+      "ar_name": "تيارت",
+      "wilaya": 14
+    },
+    {
+      "name": "Ain El Hammam",
+      "ar_name": "عين الحمام",
+      "wilaya": 15
+    },
+    {
+      "name": "Azeffoun",
+      "ar_name": "أزفون",
+      "wilaya": 15
+    },
+    {
+      "name": "Ouadhias",
+      "ar_name": "واضية",
+      "wilaya": 15
+    },
+    {
+      "name": "Draa El Mizan",
+      "ar_name": "ذراع الميزان",
+      "wilaya": 15
+    },
+    {
+      "name": "Larbaa Nath Iraten",
+      "ar_name": "الأربعاء ناث إيراثن",
+      "wilaya": 15
+    },
+    {
+      "name": "Ouacif",
+      "ar_name": "واسيف",
+      "wilaya": 15
+    },
+    {
+      "name": "Mekla",
+      "ar_name": "مقلع",
+      "wilaya": 15
+    },
+    {
+      "name": "Ouaguenoun",
+      "ar_name": "واقنون",
+      "wilaya": 15
+    },
+    {
+      "name": "Beni Douala",
+      "ar_name": "بني دوالة",
+      "wilaya": 15
+    },
+    {
+      "name": "Tizi Rached",
+      "ar_name": "تيزي راشد",
+      "wilaya": 15
+    },
+    {
+      "name": "Boghni",
+      "ar_name": "بوغني",
+      "wilaya": 15
+    },
+    {
+      "name": "Azazga",
+      "ar_name": "عزازقة",
+      "wilaya": 15
+    },
+    {
+      "name": "Benni Yenni",
+      "ar_name": "بني يني",
+      "wilaya": 15
+    },
+    {
+      "name": "Bouzeguene",
+      "ar_name": "بوزقن",
+      "wilaya": 15
+    },
+    {
+      "name": "Makouda",
+      "ar_name": "ماكودة",
+      "wilaya": 15
+    },
+    {
+      "name": "Draa Ben Khedda",
+      "ar_name": "ذراع بن خدة",
+      "wilaya": 15
+    },
+    {
+      "name": "Iferhounene",
+      "ar_name": "إفرحونان",
+      "wilaya": 15
+    },
+    {
+      "name": "Tigzirt",
+      "ar_name": "تيقزيرت",
+      "wilaya": 15
+    },
+    {
+      "name": "Maatkas",
+      "ar_name": "معاتقة",
+      "wilaya": 15
+    },
+    {
+      "name": "Tizi-Ghenif",
+      "ar_name": "تيزي غنيف",
+      "wilaya": 15
+    },
+    {
+      "name": "Tizi Ouzou",
+      "ar_name": "تيزي وزو",
+      "wilaya": 15
+    },
+    {
+      "name": "Cheraga",
+      "ar_name": "الشراقة",
+      "wilaya": 16
+    },
+    {
+      "name": "Dar El Beida",
+      "ar_name": "الدار البيضاء",
+      "wilaya": 16
+    },
+    {
+      "name": "Sidi M'hamed",
+      "ar_name": "سيدي امحمد",
+      "wilaya": 16
+    },
+    {
+      "name": "Bab El Oued",
+      "ar_name": "باب الوادي",
+      "wilaya": 16
+    },
+    {
+      "name": "Draria",
+      "ar_name": "الدرارية",
+      "wilaya": 16
+    },
+    {
+      "name": "El Harrach",
+      "ar_name": "الحراش",
+      "wilaya": 16
+    },
+    {
+      "name": "Baraki",
+      "ar_name": "براقي",
+      "wilaya": 16
+    },
+    {
+      "name": "Bouzareah",
+      "ar_name": "بوزريعة",
+      "wilaya": 16
+    },
+    {
+      "name": "Bir Mourad Rais",
+      "ar_name": "بئر مراد رايس",
+      "wilaya": 16
+    },
+    {
+      "name": "Birtouta",
+      "ar_name": "بئر توتة",
+      "wilaya": 16
+    },
+    {
+      "name": "Hussein Dey",
+      "ar_name": "حسين داي",
+      "wilaya": 16
+    },
+    {
+      "name": "Rouiba",
+      "ar_name": "الرويبة",
+      "wilaya": 16
+    },
+    {
+      "name": "Zeralda",
+      "ar_name": "زرالدة",
+      "wilaya": 16
+    },
+    {
+      "name": "El Idrissia",
+      "ar_name": "الادريسية",
+      "wilaya": 17
+    },
+    {
+      "name": "Ain El Ibel",
+      "ar_name": "عين الإبل",
+      "wilaya": 17
+    },
+    {
+      "name": "Had Sahary",
+      "ar_name": "حد الصحاري",
+      "wilaya": 17
+    },
+    {
+      "name": "Hassi Bahbah",
+      "ar_name": "حاسي بحبح",
+      "wilaya": 17
+    },
+    {
+      "name": "Ain Oussera",
+      "ar_name": "عين وسارة",
+      "wilaya": 17
+    },
+    {
+      "name": "Faidh El Botma",
+      "ar_name": "فيض البطمة",
+      "wilaya": 17
+    },
+    {
+      "name": "Birine",
+      "ar_name": "بيرين",
+      "wilaya": 17
+    },
+    {
+      "name": "Charef",
+      "ar_name": "الشارف",
+      "wilaya": 17
+    },
+    {
+      "name": "Dar Chioukh",
+      "ar_name": "دار الشيوخ",
+      "wilaya": 17
+    },
+    {
+      "name": "Messaad",
+      "ar_name": "مسعد",
+      "wilaya": 17
+    },
+    {
+      "name": "Djelfa",
+      "ar_name": "الجلفة",
+      "wilaya": 17
+    },
+    {
+      "name": "Sidi Laadjel",
+      "ar_name": "سيدي لعجال",
+      "wilaya": 17
+    },
+    {
+      "name": "Chekfa",
+      "ar_name": "الشقفة",
+      "wilaya": 18
+    },
+    {
+      "name": "Djimla",
+      "ar_name": "جيملة",
+      "wilaya": 18
+    },
+    {
+      "name": "El Ancer",
+      "ar_name": "العنصر",
+      "wilaya": 18
+    },
+    {
+      "name": "Taher",
+      "ar_name": "الطاهير",
+      "wilaya": 18
+    },
+    {
+      "name": "El Aouana",
+      "ar_name": "العوانة",
+      "wilaya": 18
+    },
+    {
+      "name": "El Milia",
+      "ar_name": "الميلية",
+      "wilaya": 18
+    },
+    {
+      "name": "Ziamah Mansouriah",
+      "ar_name": "زيامة منصورية",
+      "wilaya": 18
+    },
+    {
+      "name": "Settara",
+      "ar_name": "السطارة",
+      "wilaya": 18
+    },
+    {
+      "name": "Jijel",
+      "ar_name": "جيجل",
+      "wilaya": 18
+    },
+    {
+      "name": "Texenna",
+      "ar_name": "تاكسنة",
+      "wilaya": 18
+    },
+    {
+      "name": "Sidi Marouf",
+      "ar_name": "سيدي معروف",
+      "wilaya": 18
+    },
+    {
+      "name": "Ain Arnat",
+      "ar_name": "عين أرنات",
+      "wilaya": 19
+    },
+    {
+      "name": "Ain Azel",
+      "ar_name": "عين أزال",
+      "wilaya": 19
+    },
+    {
+      "name": "Ain El Kebira",
+      "ar_name": "عين الكبيرة",
+      "wilaya": 19
+    },
+    {
+      "name": "Ain Oulmene",
+      "ar_name": "عين ولمان",
+      "wilaya": 19
+    },
+    {
+      "name": "Beni Ourtilane",
+      "ar_name": "بني ورتيلان",
+      "wilaya": 19
+    },
+    {
+      "name": "Bougaa",
+      "ar_name": "بوقاعة",
+      "wilaya": 19
+    },
+    {
+      "name": "Beni Aziz",
+      "ar_name": "بني عزيز",
+      "wilaya": 19
+    },
+    {
+      "name": "Bouandas",
+      "ar_name": "بوعنداس",
+      "wilaya": 19
+    },
+    {
+      "name": "Amoucha",
+      "ar_name": "عموشة",
+      "wilaya": 19
+    },
+    {
+      "name": "Babor",
+      "ar_name": "بابور",
+      "wilaya": 19
+    },
+    {
+      "name": "El Eulma",
+      "ar_name": "العلمة",
+      "wilaya": 19
+    },
+    {
+      "name": "Bir El Arch",
+      "ar_name": "بئر العرش",
+      "wilaya": 19
+    },
+    {
+      "name": "Djemila",
+      "ar_name": "جميلة",
+      "wilaya": 19
+    },
+    {
+      "name": "Salah Bey",
+      "ar_name": "صالح باي",
+      "wilaya": 19
+    },
+    {
+      "name": "Hammam Guergour",
+      "ar_name": "حمام قرقور",
+      "wilaya": 19
+    },
+    {
+      "name": "Guenzet",
+      "ar_name": "قنزات",
+      "wilaya": 19
+    },
+    {
+      "name": "Guidjel",
+      "ar_name": "قجال",
+      "wilaya": 19
+    },
+    {
+      "name": "Hammam Sokhna",
+      "ar_name": "حمام السخنة",
+      "wilaya": 19
+    },
+    {
+      "name": "Maoklane",
+      "ar_name": "ماوكلان",
+      "wilaya": 19
+    },
+    {
+      "name": "Setif",
+      "ar_name": "سطيف",
+      "wilaya": 19
+    },
+    {
+      "name": "Ain El Hadjar",
+      "ar_name": "عين الحجر",
+      "wilaya": 20
+    },
+    {
+      "name": "El Hassasna",
+      "ar_name": "الحساسنة",
+      "wilaya": 20
+    },
+    {
+      "name": "Ouled Brahim",
+      "ar_name": "أولاد ابراهيم",
+      "wilaya": 20
+    },
+    {
+      "name": "Youb",
+      "ar_name": "يوب",
+      "wilaya": 20
+    },
+    {
+      "name": "Sidi Boubekeur",
+      "ar_name": "سيدي بوبكر",
+      "wilaya": 20
+    },
+    {
+      "name": "Saida",
+      "ar_name": "سعيدة",
+      "wilaya": 20
+    },
+    {
+      "name": "Sidi Mezghiche",
+      "ar_name": "سيدي مزغيش",
+      "wilaya": 21
+    },
+    {
+      "name": "Azzaba",
+      "ar_name": "عزابة",
+      "wilaya": 21
+    },
+    {
+      "name": "Ain Kechra",
+      "ar_name": "عين قشرة",
+      "wilaya": 21
+    },
+    {
+      "name": "El Hadaiek",
+      "ar_name": "الحدائق",
+      "wilaya": 21
+    },
+    {
+      "name": "Ben Azzouz",
+      "ar_name": "بن عزوز",
+      "wilaya": 21
+    },
+    {
+      "name": "Ramdane Djamel",
+      "ar_name": "رمضان جمال",
+      "wilaya": 21
+    },
+    {
+      "name": "Collo",
+      "ar_name": "القل",
+      "wilaya": 21
+    },
+    {
+      "name": "Tamalous",
+      "ar_name": "تمالوس",
+      "wilaya": 21
+    },
+    {
+      "name": "El Harrouch",
+      "ar_name": "الحروش",
+      "wilaya": 21
+    },
+    {
+      "name": "Skikda",
+      "ar_name": "سكيكدة",
+      "wilaya": 21
+    },
+    {
+      "name": "Zitouna",
+      "ar_name": "الزيتونة",
+      "wilaya": 21
+    },
+    {
+      "name": "Ouled Attia",
+      "ar_name": "أولاد عطية",
+      "wilaya": 21
+    },
+    {
+      "name": "Oum Toub",
+      "ar_name": "أم الطوب",
+      "wilaya": 21
+    },
+    {
+      "name": "Ain El Berd",
+      "ar_name": "عين البرد",
+      "wilaya": 22
+    },
+    {
+      "name": "Sidi Ali Boussidi",
+      "ar_name": "سيدي علي بوسيدي",
+      "wilaya": 22
+    },
+    {
+      "name": "Tessala",
+      "ar_name": "تسالة",
+      "wilaya": 22
+    },
+    {
+      "name": "Moulay Slissen",
+      "ar_name": "مولاي سليسن",
+      "wilaya": 22
+    },
+    {
+      "name": "Sfisef",
+      "ar_name": "سفيزف",
+      "wilaya": 22
+    },
+    {
+      "name": "Sidi Lahcene",
+      "ar_name": "سيدي لحسن",
+      "wilaya": 22
+    },
+    {
+      "name": "Ben Badis",
+      "ar_name": "بن باديس",
+      "wilaya": 22
+    },
+    {
+      "name": "Mostefa Ben Brahim",
+      "ar_name": "مصطفى بن ابراهيم",
+      "wilaya": 22
+    },
+    {
+      "name": "Tenira",
+      "ar_name": "تنيرة",
+      "wilaya": 22
+    },
+    {
+      "name": "Marhoum",
+      "ar_name": "مرحوم",
+      "wilaya": 22
+    },
+    {
+      "name": "Sidi Ali Ben Youb",
+      "ar_name": "سيدي علي بن يوب",
+      "wilaya": 22
+    },
+    {
+      "name": "Telagh",
+      "ar_name": "تلاغ",
+      "wilaya": 22
+    },
+    {
+      "name": "Merine",
+      "ar_name": "مرين",
+      "wilaya": 22
+    },
+    {
+      "name": "Ras El Ma",
+      "ar_name": "راس الماء",
+      "wilaya": 22
+    },
+    {
+      "name": "Sidi Bel Abbes",
+      "ar_name": "سيدي بلعباس",
+      "wilaya": 22
+    },
+    {
+      "name": "Ain El Berda",
+      "ar_name": "عين الباردة",
+      "wilaya": 23
+    },
+    {
+      "name": "Annaba",
+      "ar_name": "عنابة",
+      "wilaya": 23
+    },
+    {
+      "name": "Berrahal",
+      "ar_name": "برحال",
+      "wilaya": 23
+    },
+    {
+      "name": "Chetaibi",
+      "ar_name": "شطايبي",
+      "wilaya": 23
+    },
+    {
+      "name": "El Bouni",
+      "ar_name": "البوني",
+      "wilaya": 23
+    },
+    {
+      "name": "El Hadjar",
+      "ar_name": "الحجار",
+      "wilaya": 23
+    },
+    {
+      "name": "Bouchegouf",
+      "ar_name": "بوشقوف",
+      "wilaya": 24
+    },
+    {
+      "name": "Ain Makhlouf",
+      "ar_name": "عين مخلوف",
+      "wilaya": 24
+    },
+    {
+      "name": "Oued Zenati",
+      "ar_name": "وادي الزناتي",
+      "wilaya": 24
+    },
+    {
+      "name": "Khezaras",
+      "ar_name": "خزارة",
+      "wilaya": 24
+    },
+    {
+      "name": "Guelaat Bousbaa",
+      "ar_name": "قلعة بوصبع",
+      "wilaya": 24
+    },
+    {
+      "name": "Guelma",
+      "ar_name": "قالمة",
+      "wilaya": 24
+    },
+    {
+      "name": "Hammam Debagh",
+      "ar_name": "حمام دباغ",
+      "wilaya": 24
+    },
+    {
+      "name": "Heliopolis",
+      "ar_name": "هيليوبوليس",
+      "wilaya": 24
+    },
+    {
+      "name": "Hammam N'bails",
+      "ar_name": "حمام النبايل",
+      "wilaya": 24
+    },
+    {
+      "name": "Ain Hessainia",
+      "ar_name": "عين حساينية",
+      "wilaya": 24
+    },
+    {
+      "name": "Ain Abid",
+      "ar_name": "عين عبيد",
+      "wilaya": 25
+    },
+    {
+      "name": "El Khroub",
+      "ar_name": "الخروب",
+      "wilaya": 25
+    },
+    {
+      "name": "Zighoud Youcef",
+      "ar_name": "زيغود يوسف",
+      "wilaya": 25
+    },
+    {
+      "name": "Constantine",
+      "ar_name": "قسنطينة",
+      "wilaya": 25
+    },
+    {
+      "name": "Hamma Bouziane",
+      "ar_name": "حامة بوزيان",
+      "wilaya": 25
+    },
+    {
+      "name": "Ibn Ziad",
+      "ar_name": "ابن زياد",
+      "wilaya": 25
+    },
+    {
+      "name": "Ain Boucif",
+      "ar_name": "عين بوسيف",
+      "wilaya": 26
+    },
+    {
+      "name": "Chellalat El Adhaoura",
+      "ar_name": "شلالة العذاورة",
+      "wilaya": 26
+    },
+    {
+      "name": "Tablat",
+      "ar_name": "تابلاط",
+      "wilaya": 26
+    },
+    {
+      "name": "Aziz",
+      "ar_name": "عزيز",
+      "wilaya": 26
+    },
+    {
+      "name": "El Omaria",
+      "ar_name": "العمارية",
+      "wilaya": 26
+    },
+    {
+      "name": "Ouzera",
+      "ar_name": "وزرة",
+      "wilaya": 26
+    },
+    {
+      "name": "Beni Slimane",
+      "ar_name": "بني سليمان",
+      "wilaya": 26
+    },
+    {
+      "name": "Berrouaghia",
+      "ar_name": "البرواقية",
+      "wilaya": 26
+    },
+    {
+      "name": "Guelb El Kebir",
+      "ar_name": "القلب الكبير",
+      "wilaya": 26
+    },
+    {
+      "name": "Ouled Antar",
+      "ar_name": "أولاد عنتر",
+      "wilaya": 26
+    },
+    {
+      "name": "Chahbounia",
+      "ar_name": "الشهبونية",
+      "wilaya": 26
+    },
+    {
+      "name": "Si Mahdjoub",
+      "ar_name": "سي المحجوب",
+      "wilaya": 26
+    },
+    {
+      "name": "Sidi Naamane",
+      "ar_name": "سيدي نعمان",
+      "wilaya": 26
+    },
+    {
+      "name": "Souaghi",
+      "ar_name": "السواقي",
+      "wilaya": 26
+    },
+    {
+      "name": "Medea",
+      "ar_name": "المدية",
+      "wilaya": 26
+    },
+    {
+      "name": "El Azizia",
+      "ar_name": "العزيزية",
+      "wilaya": 26
+    },
+    {
+      "name": "Ouamri",
+      "ar_name": "عوامري",
+      "wilaya": 26
+    },
+    {
+      "name": "Ksar El Boukhari",
+      "ar_name": "قصر البخاري",
+      "wilaya": 26
+    },
+    {
+      "name": "Seghouane",
+      "ar_name": "سغوان",
+      "wilaya": 26
+    },
+    {
+      "name": "Achaacha",
+      "ar_name": "عشعاشة",
+      "wilaya": 27
+    },
+    {
+      "name": "Kheir Eddine",
+      "ar_name": "خير الدين",
+      "wilaya": 27
+    },
+    {
+      "name": "Ain Nouicy",
+      "ar_name": "عين نويسي",
+      "wilaya": 27
+    },
+    {
+      "name": "Mesra",
+      "ar_name": "ماسرة",
+      "wilaya": 27
+    },
+    {
+      "name": "Ain Tedeles",
+      "ar_name": "عين تادلس",
+      "wilaya": 27
+    },
+    {
+      "name": "Sidi Lakhdar",
+      "ar_name": "سيدي لخضر",
+      "wilaya": 27
+    },
+    {
+      "name": "Bouguirat",
+      "ar_name": "بوقيراط",
+      "wilaya": 27
+    },
+    {
+      "name": "Hassi Mameche",
+      "ar_name": "حاسي ماماش",
+      "wilaya": 27
+    },
+    {
+      "name": "Mostaganem",
+      "ar_name": "مستغانم",
+      "wilaya": 27
+    },
+    {
+      "name": "Sidi Ali",
+      "ar_name": "سيدي علي",
+      "wilaya": 27
+    },
+    {
+      "name": "Ain El Hadjel",
+      "ar_name": "عين الحجل",
+      "wilaya": 28
+    },
+    {
+      "name": "Ain El Melh",
+      "ar_name": "عين الملح",
+      "wilaya": 28
+    },
+    {
+      "name": "Magra",
+      "ar_name": "مقرة",
+      "wilaya": 28
+    },
+    {
+      "name": "Ben Srour",
+      "ar_name": "بن سرور",
+      "wilaya": 28
+    },
+    {
+      "name": "Sidi Aissa",
+      "ar_name": "سيدي عيسى",
+      "wilaya": 28
+    },
+    {
+      "name": "Ouled Sidi Brahim",
+      "ar_name": "أولاد سيدي ابراهيم",
+      "wilaya": 28
+    },
+    {
+      "name": "Bousaada",
+      "ar_name": "بوسعادة",
+      "wilaya": 28
+    },
+    {
+      "name": "Chellal",
+      "ar_name": "شلال",
+      "wilaya": 28
+    },
+    {
+      "name": "Djebel Messaad",
+      "ar_name": "جبل مساعد",
+      "wilaya": 28
+    },
+    {
+      "name": "Khoubana",
+      "ar_name": "خبانة",
+      "wilaya": 28
+    },
+    {
+      "name": "Hammam Dalaa",
+      "ar_name": "حمام الضلعة",
+      "wilaya": 28
+    },
+    {
+      "name": "Ouled Derradj",
+      "ar_name": "أولاد دراج",
+      "wilaya": 28
+    },
+    {
+      "name": "Medjedel",
+      "ar_name": "امجدل",
+      "wilaya": 28
+    },
+    {
+      "name": "M'sila",
+      "ar_name": "المسيلة",
+      "wilaya": 28
+    },
+    {
+      "name": "Sidi Ameur",
+      "ar_name": "سيدي عامر",
+      "wilaya": 28
+    },
+    {
+      "name": "Ain Fares",
+      "ar_name": "عين فارس",
+      "wilaya": 29
+    },
+    {
+      "name": "Ain Fekan",
+      "ar_name": "عين فكان",
+      "wilaya": 29
+    },
+    {
+      "name": "Oued El Abtal",
+      "ar_name": "وادي الأبطال",
+      "wilaya": 29
+    },
+    {
+      "name": "Oggaz",
+      "ar_name": "عقاز",
+      "wilaya": 29
+    },
+    {
+      "name": "Aouf",
+      "ar_name": "عوف",
+      "wilaya": 29
+    },
+    {
+      "name": "Sig",
+      "ar_name": "سيق",
+      "wilaya": 29
+    },
+    {
+      "name": "Bouhanifia",
+      "ar_name": "بوحنيفية",
+      "wilaya": 29
+    },
+    {
+      "name": "El Bordj",
+      "ar_name": "البرج",
+      "wilaya": 29
+    },
+    {
+      "name": "Zahana",
+      "ar_name": "زهانة",
+      "wilaya": 29
+    },
+    {
+      "name": "Mohammadia",
+      "ar_name": "المحمدية",
+      "wilaya": 29
+    },
+    {
+      "name": "Hachem",
+      "ar_name": "الحشم",
+      "wilaya": 29
+    },
+    {
+      "name": "Tizi",
+      "ar_name": "تيزي",
+      "wilaya": 29
+    },
+    {
+      "name": "Ghriss",
+      "ar_name": "غريس",
+      "wilaya": 29
+    },
+    {
+      "name": "Oued Taria",
+      "ar_name": "وادي التاغية",
+      "wilaya": 29
+    },
+    {
+      "name": "Mascara",
+      "ar_name": "معسكر",
+      "wilaya": 29
+    },
+    {
+      "name": "Tighennif",
+      "ar_name": "تيغنيف",
+      "wilaya": 29
+    },
+    {
+      "name": "Sidi Khouiled",
+      "ar_name": "سيدي خويلد",
+      "wilaya": 30
+    },
+    {
+      "name": "Taibet",
+      "ar_name": "الطيبات",
+      "wilaya": 55
+    },
+    {
+      "name": "Temacine",
+      "ar_name": "تماسين",
+      "wilaya": 55
+    },
+    {
+      "name": "El-Hadjira",
+      "ar_name": "الحجيرة",
+      "wilaya": 55
+    },
+    {
+      "name": "El Borma",
+      "ar_name": "البرمة",
+      "wilaya": 30
+    },
+    {
+      "name": "Hassi Messaoud",
+      "ar_name": "حاسي مسعود",
+      "wilaya": 30
+    },
+    {
+      "name": "Megarine",
+      "ar_name": "المقارين",
+      "wilaya": 55
+    },
+    {
+      "name": "Touggourt",
+      "ar_name": "تقرت",
+      "wilaya": 55
+    },
+    {
+      "name": "N'goussa",
+      "ar_name": "انقوسة",
+      "wilaya": 30
+    },
+    {
+      "name": "Ouargla",
+      "ar_name": "ورقلة",
+      "wilaya": 30
+    },
+    {
+      "name": "Bethioua",
+      "ar_name": "بطيوة",
+      "wilaya": 31
+    },
+    {
+      "name": "Boutlelis",
+      "ar_name": "بوتليليس",
+      "wilaya": 31
+    },
+    {
+      "name": "Ain Turk",
+      "ar_name": "عين الترك",
+      "wilaya": 31
+    },
+    {
+      "name": "Arzew",
+      "ar_name": "أرزيو",
+      "wilaya": 31
+    },
+    {
+      "name": "Gdyel",
+      "ar_name": "قديل",
+      "wilaya": 31
+    },
+    {
+      "name": "Bir El Djir",
+      "ar_name": "بئر الجير",
+      "wilaya": 31
+    },
+    {
+      "name": "Oued Tlelat",
+      "ar_name": "وادي تليلات",
+      "wilaya": 31
+    },
+    {
+      "name": "Es Senia",
+      "ar_name": "السانية",
+      "wilaya": 31
+    },
+    {
+      "name": "Oran",
+      "ar_name": "وهران",
+      "wilaya": 31
+    },
+    {
+      "name": "Labiodh Sidi Cheikh",
+      "ar_name": "الأبيض سيدي الشيخ",
+      "wilaya": 32
+    },
+    {
+      "name": "Boualem",
+      "ar_name": "بوعلام",
+      "wilaya": 32
+    },
+    {
+      "name": "Bougtoub",
+      "ar_name": "بوقطب",
+      "wilaya": 32
+    },
+    {
+      "name": "Boussemghoun",
+      "ar_name": "بوسمغون",
+      "wilaya": 32
+    },
+    {
+      "name": "Brezina",
+      "ar_name": "بريزينة",
+      "wilaya": 32
+    },
+    {
+      "name": "Rogassa",
+      "ar_name": "رقاصة",
+      "wilaya": 32
+    },
+    {
+      "name": "Chellala",
+      "ar_name": "شلالة",
+      "wilaya": 32
+    },
+    {
+      "name": "El Bayadh",
+      "ar_name": "البيض",
+      "wilaya": 32
+    },
+    {
+      "name": "Djanet",
+      "ar_name": "جانت",
+      "wilaya": 56
+    },
+    {
+      "name": "In Amenas",
+      "ar_name": "إن أمناس",
+      "wilaya": 33
+    },
+    {
+      "name": "Illizi",
+      "ar_name": "إيليزي",
+      "wilaya": 33
+    },
+    {
+      "name": "Ain Taghrout",
+      "ar_name": "عين تاغروت",
+      "wilaya": 34
+    },
+    {
+      "name": "Ras El Oued",
+      "ar_name": "رأس الوادي",
+      "wilaya": 34
+    },
+    {
+      "name": "Bordj Bou Arreridj",
+      "ar_name": "برج بوعريريج",
+      "wilaya": 34
+    },
+    {
+      "name": "Bordj Ghedir",
+      "ar_name": "برج الغدير",
+      "wilaya": 34
+    },
+    {
+      "name": "Mansourah",
+      "ar_name": "المنصورة",
+      "wilaya": 34
+    },
+    {
+      "name": "Bir Kasdali",
+      "ar_name": "بئر قاصد علي",
+      "wilaya": 34
+    },
+    {
+      "name": "Bordj Zemmoura",
+      "ar_name": "برج زمورة",
+      "wilaya": 34
+    },
+    {
+      "name": "Djaafra",
+      "ar_name": "جعافرة",
+      "wilaya": 34
+    },
+    {
+      "name": "El Hamadia",
+      "ar_name": "الحمادية",
+      "wilaya": 34
+    },
+    {
+      "name": "Medjana",
+      "ar_name": "مجانة",
+      "wilaya": 34
+    },
+    {
+      "name": "Dellys",
+      "ar_name": "دلس",
+      "wilaya": 35
+    },
+    {
+      "name": "Thenia",
+      "ar_name": "الثنية",
+      "wilaya": 35
+    },
+    {
+      "name": "Baghlia",
+      "ar_name": "بغلية",
+      "wilaya": 35
+    },
+    {
+      "name": "Bordj Menaiel",
+      "ar_name": "برج منايل",
+      "wilaya": 35
+    },
+    {
+      "name": "Boudouaou",
+      "ar_name": "بودواو",
+      "wilaya": 35
+    },
+    {
+      "name": "Boumerdes",
+      "ar_name": "بومرداس",
+      "wilaya": 35
+    },
+    {
+      "name": "Isser",
+      "ar_name": "يسر",
+      "wilaya": 35
+    },
+    {
+      "name": "Khemis El Khechna",
+      "ar_name": "خميس الخشنة",
+      "wilaya": 35
+    },
+    {
+      "name": "Naciria",
+      "ar_name": "الناصرية",
+      "wilaya": 35
+    },
+    {
+      "name": "El Tarf",
+      "ar_name": "الطارف",
+      "wilaya": 36
+    },
+    {
+      "name": "Bouhadjar",
+      "ar_name": "بوحجار",
+      "wilaya": 36
+    },
+    {
+      "name": "Besbes",
+      "ar_name": "البسباس",
+      "wilaya": 36
+    },
+    {
+      "name": "Ben M'hidi",
+      "ar_name": "بن مهيدي",
+      "wilaya": 36
+    },
+    {
+      "name": "Bouteldja",
+      "ar_name": "بوثلجة",
+      "wilaya": 36
+    },
+    {
+      "name": "Drean",
+      "ar_name": "الذرعان",
+      "wilaya": 36
+    },
+    {
+      "name": "El Kala",
+      "ar_name": "القالة",
+      "wilaya": 36
+    },
+    {
+      "name": "Tindouf",
+      "ar_name": "تندوف",
+      "wilaya": 37
+    },
+    {
+      "name": "Ammari",
+      "ar_name": "عماري",
+      "wilaya": 38
+    },
+    {
+      "name": "Bordj Bounaama",
+      "ar_name": "برج بونعامة",
+      "wilaya": 38
+    },
+    {
+      "name": "Bordj Emir Abdelkader",
+      "ar_name": "برج الأمير عبد القادر",
+      "wilaya": 38
+    },
+    {
+      "name": "Lazharia",
+      "ar_name": "الأزهرية",
+      "wilaya": 38
+    },
+    {
+      "name": "Khemisti",
+      "ar_name": "خميستي",
+      "wilaya": 38
+    },
+    {
+      "name": "Lardjem",
+      "ar_name": "لرجام",
+      "wilaya": 38
+    },
+    {
+      "name": "Tissemsilt",
+      "ar_name": "تيسمسيلت",
+      "wilaya": 38
+    },
+    {
+      "name": "Theniet El Had",
+      "ar_name": "ثنية الاحد",
+      "wilaya": 38
+    },
+    {
+      "name": "Bayadha",
+      "ar_name": "البياضة",
+      "wilaya": 39
+    },
+    {
+      "name": "Taleb Larbi",
+      "ar_name": "الطالب العربي",
+      "wilaya": 39
+    },
+    {
+      "name": "Debila",
+      "ar_name": "الدبيلة",
+      "wilaya": 39
+    },
+    {
+      "name": "Djamaa",
+      "ar_name": "جامعة",
+      "wilaya": 57
+    },
+    {
+      "name": "Robbah",
+      "ar_name": "الرباح",
+      "wilaya": 39
+    },
+    {
+      "name": "El Meghaier",
+      "ar_name": "المغير",
+      "wilaya": 57
+    },
+    {
+      "name": "El Oued",
+      "ar_name": "الوادي",
+      "wilaya": 39
+    },
+    {
+      "name": "Guemar",
+      "ar_name": "قمار",
+      "wilaya": 39
+    },
+    {
+      "name": "Reguiba",
+      "ar_name": "الرقيبة",
+      "wilaya": 39
+    },
+    {
+      "name": "Hassi Khalifa",
+      "ar_name": "حاسي خليفة",
+      "wilaya": 39
+    },
+    {
+      "name": "Magrane",
+      "ar_name": "المقرن",
+      "wilaya": 39
+    },
+    {
+      "name": "Mih Ouensa",
+      "ar_name": "اميه وانسة",
+      "wilaya": 39
+    },
+    {
+      "name": "Ain Touila",
+      "ar_name": "عين الطويلة",
+      "wilaya": 40
+    },
+    {
+      "name": "Babar",
+      "ar_name": "بابار",
+      "wilaya": 40
+    },
+    {
+      "name": "El Hamma",
+      "ar_name": "الحامة",
+      "wilaya": 40
+    },
+    {
+      "name": "Bouhmama",
+      "ar_name": "بوحمامة",
+      "wilaya": 40
+    },
+    {
+      "name": "Chechar",
+      "ar_name": "ششار",
+      "wilaya": 40
+    },
+    {
+      "name": "Ouled Rechache",
+      "ar_name": "أولاد رشاش",
+      "wilaya": 40
+    },
+    {
+      "name": "Kais",
+      "ar_name": "قايس",
+      "wilaya": 40
+    },
+    {
+      "name": "Khenchela",
+      "ar_name": "خنشلة",
+      "wilaya": 40
+    },
+    {
+      "name": "Sedrata",
+      "ar_name": "سدراتة",
+      "wilaya": 41
+    },
+    {
+      "name": "Ouled Driss",
+      "ar_name": "أولاد إدريس",
+      "wilaya": 41
+    },
+    {
+      "name": "Bir Bouhouche",
+      "ar_name": "بئر بوحوش",
+      "wilaya": 41
+    },
+    {
+      "name": "Taoura",
+      "ar_name": "تاورة",
+      "wilaya": 41
+    },
+    {
+      "name": "Haddada",
+      "ar_name": "الحدادة",
+      "wilaya": 41
+    },
+    {
+      "name": "Mechroha",
+      "ar_name": "المشروحة",
+      "wilaya": 41
+    },
+    {
+      "name": "M'daourouche",
+      "ar_name": "مداوروش",
+      "wilaya": 41
+    },
+    {
+      "name": "Merahna",
+      "ar_name": "المراهنة",
+      "wilaya": 41
+    },
+    {
+      "name": "Oum El Adhaim",
+      "ar_name": "أم العظايم",
+      "wilaya": 41
+    },
+    {
+      "name": "Souk Ahras",
+      "ar_name": "سوق أهراس",
+      "wilaya": 41
+    },
+    {
+      "name": "Gouraya",
+      "ar_name": "قوراية",
+      "wilaya": 42
+    },
+    {
+      "name": "Ahmar El Ain",
+      "ar_name": "أحمر العين",
+      "wilaya": 42
+    },
+    {
+      "name": "Bou Ismail",
+      "ar_name": "بواسماعيل",
+      "wilaya": 42
+    },
+    {
+      "name": "Kolea",
+      "ar_name": "القليعة",
+      "wilaya": 42
+    },
+    {
+      "name": "Damous",
+      "ar_name": "الداموس",
+      "wilaya": 42
+    },
+    {
+      "name": "Cherchell",
+      "ar_name": "شرشال",
+      "wilaya": 42
+    },
+    {
+      "name": "Fouka",
+      "ar_name": "فوكة",
+      "wilaya": 42
+    },
+    {
+      "name": "Hadjout",
+      "ar_name": "حجوط",
+      "wilaya": 42
+    },
+    {
+      "name": "Sidi Amar",
+      "ar_name": "سيدي أعمر",
+      "wilaya": 42
+    },
+    {
+      "name": "Tipaza",
+      "ar_name": "تيبازة",
+      "wilaya": 42
+    },
+    {
+      "name": "Oued Endja",
+      "ar_name": "وادي النجاء",
+      "wilaya": 43
+    },
+    {
+      "name": "Ain Beida Harriche",
+      "ar_name": "عين البيضاء أحريش",
+      "wilaya": 43
+    },
+    {
+      "name": "Chelghoum Laid",
+      "ar_name": "شلغوم العيد",
+      "wilaya": 43
+    },
+    {
+      "name": "Mila",
+      "ar_name": "ميلة",
+      "wilaya": 43
+    },
+    {
+      "name": "Terrai Bainen",
+      "ar_name": "ترعي باينان",
+      "wilaya": 43
+    },
+    {
+      "name": "Tadjenanet",
+      "ar_name": "تاجنانت",
+      "wilaya": 43
+    },
+    {
+      "name": "Bouhatem",
+      "ar_name": "بوحاتم",
+      "wilaya": 43
+    },
+    {
+      "name": "Sidi Merouane",
+      "ar_name": "سيدي مروان",
+      "wilaya": 43
+    },
+    {
+      "name": "Teleghma",
+      "ar_name": "التلاغمة",
+      "wilaya": 43
+    },
+    {
+      "name": "Ferdjioua",
+      "ar_name": "فرجيوة",
+      "wilaya": 43
+    },
+    {
+      "name": "Grarem Gouga",
+      "ar_name": "القرارم قوقة",
+      "wilaya": 43
+    },
+    {
+      "name": "Tassadane Haddada",
+      "ar_name": "تسدان حدادة",
+      "wilaya": 43
+    },
+    {
+      "name": "Rouached",
+      "ar_name": "الرواشد",
+      "wilaya": 43
+    },
+    {
+      "name": "Hammam Righa",
+      "ar_name": "حمام ريغة",
+      "wilaya": 44
+    },
+    {
+      "name": "El Abadia",
+      "ar_name": "العبادية",
+      "wilaya": 44
+    },
+    {
+      "name": "Ain Defla",
+      "ar_name": "عين الدفلى",
+      "wilaya": 44
+    },
+    {
+      "name": "Ain Lechiakh",
+      "ar_name": "عين الاشياخ",
+      "wilaya": 44
+    },
+    {
+      "name": "El Amra",
+      "ar_name": "العامرة",
+      "wilaya": 44
+    },
+    {
+      "name": "Djendel",
+      "ar_name": "جندل",
+      "wilaya": 44
+    },
+    {
+      "name": "Bathia",
+      "ar_name": "بطحية",
+      "wilaya": 44
+    },
+    {
+      "name": "Miliana",
+      "ar_name": "مليانة",
+      "wilaya": 44
+    },
+    {
+      "name": "Bordj El Emir Khaled",
+      "ar_name": "برج الأمير خالد",
+      "wilaya": 44
+    },
+    {
+      "name": "Boumedfaa",
+      "ar_name": "بومدفع",
+      "wilaya": 44
+    },
+    {
+      "name": "Djelida",
+      "ar_name": "جليدة",
+      "wilaya": 44
+    },
+    {
+      "name": "El Attaf",
+      "ar_name": "العطاف",
+      "wilaya": 44
+    },
+    {
+      "name": "Rouina",
+      "ar_name": "الروينة",
+      "wilaya": 44
+    },
+    {
+      "name": "Khemis",
+      "ar_name": "خميس",
+      "wilaya": 44
+    },
+    {
+      "name": "Mecheria",
+      "ar_name": "المشرية",
+      "wilaya": 45
+    },
+    {
+      "name": "Ain Sefra",
+      "ar_name": "عين الصفراء",
+      "wilaya": 45
+    },
+    {
+      "name": "Asla",
+      "ar_name": "عسلة",
+      "wilaya": 45
+    },
+    {
+      "name": "Moghrar",
+      "ar_name": "مغرار",
+      "wilaya": 45
+    },
+    {
+      "name": "Mekmen Ben Amar",
+      "ar_name": "مكمن بن عمار",
+      "wilaya": 45
+    },
+    {
+      "name": "Naama",
+      "ar_name": "النعامة",
+      "wilaya": 45
+    },
+    {
+      "name": "Sfissifa",
+      "ar_name": "سفيسيفة",
+      "wilaya": 45
+    },
+    {
+      "name": "Ain Kihel",
+      "ar_name": "عين الكيحل",
+      "wilaya": 46
+    },
+    {
+      "name": "Ain Larbaa",
+      "ar_name": "عين الأربعاء",
+      "wilaya": 46
+    },
+    {
+      "name": "Ain Temouchent",
+      "ar_name": "عين تموشنت",
+      "wilaya": 46
+    },
+    {
+      "name": "Beni Saf",
+      "ar_name": "بني صاف",
+      "wilaya": 46
+    },
+    {
+      "name": "El Amria",
+      "ar_name": "العامرية",
+      "wilaya": 46
+    },
+    {
+      "name": "El Maleh",
+      "ar_name": "المالح",
+      "wilaya": 46
+    },
+    {
+      "name": "Hammam Bou Hadjar",
+      "ar_name": "حمام بوحجر",
+      "wilaya": 46
+    },
+    {
+      "name": "Oulhassa Gheraba",
+      "ar_name": "ولهاصة الغرابة",
+      "wilaya": 46
+    },
+    {
+      "name": "Berriane",
+      "ar_name": "بريان",
+      "wilaya": 47
+    },
+    {
+      "name": "Bounoura",
+      "ar_name": "بونورة",
+      "wilaya": 47
+    },
+    {
+      "name": "Dhayet Ben Dhahoua",
+      "ar_name": "ضاية بن ضحوة",
+      "wilaya": 47
+    },
+    {
+      "name": "El Menia",
+      "ar_name": "المنيعة",
+      "wilaya": 58
+    },
+    {
+      "name": "Ghardaia",
+      "ar_name": "غرداية",
+      "wilaya": 47
+    },
+    {
+      "name": "El Guerrara",
+      "ar_name": "القرارة",
+      "wilaya": 47
+    },
+    {
+      "name": "Mansourah",
+      "ar_name": "المنصورة",
+      "wilaya": 58
+    },
+    {
+      "name": "Mansourah",
+      "ar_name": "المنصورة",
+      "wilaya": 47
+    },
+    {
+      "name": "Metlili",
+      "ar_name": "متليلي",
+      "wilaya": 47
+    },
+    {
+      "name": "Zelfana",
+      "ar_name": "زلفانة",
+      "wilaya": 47
+    },
+    {
+      "name": "Yellel",
+      "ar_name": "يلل",
+      "wilaya": 48
+    },
+    {
+      "name": "Ain Tarek",
+      "ar_name": "عين طارق",
+      "wilaya": 48
+    },
+    {
+      "name": "Ammi Moussa",
+      "ar_name": "عمي موسى",
+      "wilaya": 48
+    },
+    {
+      "name": "El Matmar",
+      "ar_name": "المطمر",
+      "wilaya": 48
+    },
+    {
+      "name": "Relizane",
+      "ar_name": "غليزان",
+      "wilaya": 48
+    },
+    {
+      "name": "Zemmoura",
+      "ar_name": "زمورة",
+      "wilaya": 48
+    },
+    {
+      "name": "Sidi M'hamed Ben Ali",
+      "ar_name": "سيدي أمحمد بن علي",
+      "wilaya": 48
+    },
+    {
+      "name": "Djidiouia",
+      "ar_name": "جديوية",
+      "wilaya": 48
+    },
+    {
+      "name": "El H'madna",
+      "ar_name": "الحمادنة",
+      "wilaya": 48
+    },
+    {
+      "name": "Mazouna",
+      "ar_name": "مازونة",
+      "wilaya": 48
+    },
+    {
+      "name": "Oued Rhiou",
+      "ar_name": "وادي رهيو",
+      "wilaya": 48
+    },
+    {
+      "name": "Mendes",
+      "ar_name": "منداس",
+      "wilaya": 48
+    },
+    {
+      "name": "Ramka",
+      "ar_name": "الرمكة",
+      "wilaya": 48
     }
-]
+  ]

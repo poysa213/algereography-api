@@ -11,7 +11,7 @@ class Command(BaseCommand):
             
 
         for item in data:
-            wilaya = Wilaya(ar_name=item['fields']['ar_name'], name=item['fields']['name'],)
+            wilaya = Wilaya(ar_name=item['ar_name'], name=item['name'],)
             wilaya.save()
             
         self.stdout.write(self.style.SUCCESS(('All wilayas successfully loaded')))
