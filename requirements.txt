@@ -1,13 +1,5 @@
-[[source]]
-url = "https://pypi.org/simple"
-verify_ssl = true
-name = "pypi"
-
-[packages]
-django = "*"
-djangorestframework = "*"
-
-[dev-packages]
-
-[requires]
-python_version = "3.11"
+asgiref==3.6.0
+Django==4.1.7
+djangorestframework==3.14.0
+pytz==2022.7.1
+sqlparse==0.4.3
