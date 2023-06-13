@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-a@8+#$2d+yoc86@^nd-wp8@*+7kk1$+x3h5*!c&4v%20=!wc33
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
@@ -89,6 +89,11 @@ DATABASES = {
 }
 
 
+REST_FRAMEWORK = {
+    'DEFAULT_RENDERER_CLASSES': [
+        'rest_framework.renderers.JSONRenderer',
+    ]
+}
 # Password validation
 # https://docs.djangoproject.com/en/3.2/ref/settings/#auth-password-validators
 
