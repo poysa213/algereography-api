@@ -10,4 +10,5 @@
       "src": "/(.*)",
       "dest": "project/wsgi.py"
     }
-  ]
+  ] 
+}
